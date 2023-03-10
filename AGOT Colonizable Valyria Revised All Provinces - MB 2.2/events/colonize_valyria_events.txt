@@ -1,0 +1,134 @@
+#Unoccupied Province Events
+namespace = colonise_val
+
+#Initialise Unoccupied province
+#now in history, was colonise_val.1
+
+####  Colonists of Valyria become deformed
+#gone, was colonise_val.2
+
+#Smoking Sea - Straits
+character_event = {
+	id = colonise_val.3
+	desc = "EVTDESCevil.1"
+	picture = "GFX_valyria_dragon"
+	
+	ai = no #to prevent too much abuse
+		
+	trigger = {
+		start_date = 7886.1.1
+		OR = {
+			location = { province_id = 1008 }
+			location = { province_id = 1009 }
+		}
+		NOT = { religion = old_ones }
+		NOT = { has_artifact = dragon_egg }
+		NOT = { has_artifact = valyrian_steel }
+		NOT = { has_artifact = valyrian_armour }
+		NOT = { wealth = 500 }
+		NOT = {
+			has_game_rule = {
+				name = silly_events
+				value = off
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 7		
+	}
+		
+	option = {
+		name = "EVTOPTAevil.1"
+		chronicle = {
+			entry = CHRONICLE_SMOKING_SEA
+		}
+		random_list = {
+			95 = {								
+				set_graphical_culture = cat
+				add_trait = ruthless
+				change_variable = { which = "tyrant" value = 10 } 
+				character_event = { id = maintenance.1 } #tyrant trait
+				
+				troops = -0.95
+			}
+			2 = {
+				prestige = 250
+				wealth = 500
+				chronicle = {
+					entry = CHRONICLE_SMOKING_SEA_TREASURES
+				}
+			}
+			1 = {
+				trigger = {
+					NOT = { has_game_rule = { name = dragon_hatching_taming value = off } }
+				}
+				modifier = {
+					factor = 0
+					has_artifact = dragon_egg
+				}
+				prestige = 250
+				add_artifact = dragon_egg
+				new_artifact = { set_artifact_flag = heirloom_@PREV }
+				chronicle = {
+					entry = CHRONICLE_SMOKING_SEA_DRAGON_EGG
+				}
+			}
+			1 = {
+				modifier = {
+					factor = 0
+					has_artifact = valyrian_steel
+				}			
+				prestige = 250
+				add_artifact = valyrian_steel
+				new_artifact = { set_artifact_flag = heirloom_@PREV }
+				chronicle = {
+					entry = CHRONICLE_SMOKING_SEA_SWORD
+				}
+			}
+			1 = {
+				modifier = {
+					factor = 0
+					has_artifact = valyrian_armour
+				}
+				prestige = 250
+				add_artifact = valyrian_armour
+				new_artifact = { set_artifact_flag = heirloom_@PREV }
+				# chronicle = {
+					# entry = CHRONICLE_SMOKING_SEA_SWORD
+				# }
+			}
+		}
+	}
+}
+
+#Valyria dragon egg
+province_event = {
+	id = colonise_val.4
+
+	hide_window = yes
+	has_flag = colony_province
+	
+	trigger = {
+		region = world_valyria
+		has_province_flag = ruined_province
+		owner = { 
+			NOT = { culture = ruin } 
+		}
+		NOT = { has_province_flag = ruin_dragon_egg }
+		NOT = { has_game_rule = { name = dragon_hatching_taming value = off } }
+	}
+	
+	mean_time_to_happen = {
+		years = 150
+	}
+	
+	immediate = { 
+		set_province_flag = ruin_dragon_egg
+		owner = { character_event = { id = unoccupied.1501 } } 
+	}
+
+	option = {
+		name = OK
+	}
+}
