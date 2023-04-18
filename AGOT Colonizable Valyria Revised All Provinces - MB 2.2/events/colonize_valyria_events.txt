@@ -132,3 +132,213 @@ province_event = {
 		name = OK
 	}
 }
+
+#Dragon Staff
+province_event = {
+	id = colonise_val.5
+	
+	hide_Window = yes
+	has_flag = colony_province
+	
+	trigger = {
+		province_id = 597
+		has_province_flag = ruined_province
+		NOT = { has_province_flag = valyrian_staff_found }
+		NOT = { any_character = { has_artifact = valyrian_Staff } }
+		NOT = { has_character_flag = valyrian_staff_stuck }
+		owner = {
+			NOT = { culture = ruin }
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 5
+	}
+	
+	immediate = { owner = { narrative_event = { id = colonise_val.6 } } }
+}
+
+narrative_event = {
+	id = colonise_val.6
+	title = "EVTtitlecolonise_val.6"
+	desc = "EVTDESCcolonise_val.6"
+	picture = "GFX_valyria_dragon"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTAcolonise_val.6"
+		}
+		immediate = { narrative_event = { id = colonise_val.7 } }
+		character_event = { id = colonise_val.8 months = 12 random = 12 }
+	}
+}
+
+narrative_event = {
+	id = colonise_val.7
+	title = "EVTtitlecolonise_val.6"
+	desc = "EVTDESCcolonise_val.7"
+	picture = "GFX_valyria_dragon"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTAcolonise_val.7"
+		}
+		if = {
+			limit = {
+				NOT = { has_landed_title = k_valyria }
+			}
+			k_valyria = { add_pressed_claim = ROOT }
+		}
+	}
+}
+
+narrative_event = {
+	id = colonise_val.8
+	title = "EVTtitlecolonise_val.8"
+	desc = "EVTDESCcolonise_val.8"
+	picture = "GFX_evt_valyria_2"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTAcolonise_val.8"
+		}
+		immediate = { narrative_event = { id = colonise_val.9 } }
+	}
+}
+
+narrative_event = {
+	id = colonise_val.9
+	title = "EVTtitlecolonise_val.8"
+	desc = "EVTDESCcolonise_val.9"
+	picture = "GFX_evt_valyria_2"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTAcolonise_val.9"
+		}
+		immediate = { narrative_event = { id = colonise_val.10 } }
+	}
+}
+
+narrative_event = {
+	id = colonise_val.10
+	title = "EVTtitlecolonise_val.8"
+	desc = "EVTDESCcolonise_val.10"
+	picture = "GFX_evt_valyria_2"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTAcolonise_val.10"
+		}
+		immediate = { narrative_event = { id = colonise_val.15 } }
+	}
+	option = {
+		trigger = {
+			OR = {
+				is_smart_incl_genius_trigger = yes
+				learning = 15
+			}
+		}
+		name = {
+			text = "EVTOPTBcolonise_val.10"
+		}
+		immediate = { 
+			narrative_event = { id = colonise_val.11 } 
+			clr_character_flag = valyrian_staff_stuck
+		}
+	}
+}
+
+narrative_event = {
+	id = colonise_val.11
+	title = "EVTtitlecolonise_val.11"
+	desc = "EVTDESCcolonise_val.11"
+	picture = GFX_evt_valyria
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTBcolonise_val.11"
+		}	
+		immediate = { narrative_event = { id = colonise_val.12 } }	
+	}
+}
+
+narrative_event = {
+	id = colonise_val.12
+	title = "EVTtitlecolonise_val.11"
+	desc = "EVTDESCcolonise_val.12"
+	picture = "GFX_evt_valyria"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTBcolonise_val.12"
+		}
+		immediate = { narrative_event = { id = colonise_val.13 } }
+	}
+}
+
+narrative_event = {
+	id = colonise_val.13
+	title = "EVTtitlecolonise_val.11"
+	desc = "EVTDESCcolonise_val.13"
+	picture = "GFX_evt_valyria"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTBcolonise_val.13"
+		}
+		immediate = { narrative_event = { id = colonise_val.14 } }
+	}
+}
+
+narrative_event = {
+	id = colonise_val.14
+	title = "EVTtitlecolonise_val.11"
+	desc = "EVTDESCcolonise_val.14"
+	picture = "GFX_evt_valyria"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTAcolonise_val.14"
+		}	
+		FROM = { set_province_flag = valyrian_staff_found }
+		add_artifact = valyrian_staff
+		new_artifact = { set_artifact_flag = heirloom_@ROOT }
+		wealth = 250		
+		prestige = 100
+	}
+}
+
+narrative_event = {
+	id = colonise_val.15
+	title = "EVTtitlecolonise_val.15"
+	desc = "EVTDESCcolonise_val.15"
+	picture = "GFX_valyria_dragon"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = {
+			text = "EVTOPTAcolonise_val.15"
+		}
+		set_character_flag = valyrian_staff_stuck
+	}
+}
