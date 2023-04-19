@@ -152,7 +152,7 @@ province_event = {
 	}
 	
 	mean_time_to_happen = {
-		years = 5
+		years = 10
 	}
 	
 	immediate = { owner = { narrative_event = { id = colonise_val.6 } } }
