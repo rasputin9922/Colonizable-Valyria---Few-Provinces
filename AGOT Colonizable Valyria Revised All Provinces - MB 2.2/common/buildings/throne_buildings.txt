@@ -529,4 +529,3 @@ castle = {
 		ai_creation_factor = 0
 	}
 }
-}
