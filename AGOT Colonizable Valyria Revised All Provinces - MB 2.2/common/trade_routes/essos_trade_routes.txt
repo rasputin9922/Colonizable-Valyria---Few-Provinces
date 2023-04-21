@@ -23,7 +23,7 @@ far_east_trade_route = {
 	
 	##Northern Sea Route
 	path = {	# Nefer - Port of Ibben
-		835 1120 1118 1116 986 595 985
+		835 1120 1118 1116 986 595 985 585
 	}
 	
 	##Yi Ti to Bone Mountains
@@ -51,11 +51,14 @@ far_east_trade_route = {
 	
 	##Roads to Vaes Dothrak
 	path = {	# Lanqoyi - Trader Town
-		862 863 864 865 847
+		862 863 864 865 847 848
 	}
 	path = {	# Nefer - Kayakayanaya
 		835 837 853 852 851 841 680
 	}
+	# path = {	# Trader Town - Kayakayanaya
+		# 847 846 842 680
+	# }
 	path = {	# Kayakayanaya - Vaes Dothrak
 		680 682 717 716 709
 	}
@@ -65,45 +68,51 @@ far_east_trade_route = {
 		
 	##Roads to Qarth
 	path = {	# Bayasabhad - Qarth
-		674 671 665 664 663
+		674 671 665 664 663 1250 1251 1252
 	}
-	# path = {	# Nekhos - Kosrak (via Old Waste Road)
-	#	650 653 652 648
-	# }
 	
 	##Roads to Meereen
-	path = {	# Yinishar - Kosrak
-		660 659 658 648 
-	}
-	path = {	# Kosrak - Hesh
-		648 646 638
+	path = {	# Yinishar - Meereen
+		660 659 658 648 646 638 607 606
 	}
 	
 	##Southern Sea Route
-	path = {	# Asshai - Ctl Jade Sea
-		795 1112 1109 1110 790 1100
+	path = {	# Asshai - Turrani
+		795 1112 1109 1110 790
 	}
 	# path = {	# Asshai - Jinqi
-	# 	795 1111 1105 770
+		# 795 1111 1106 1105 770
 	# }
-	path = {	# Jinqi - Yin Coast
-		770 1103 792 1102 1101
+	path = {	# Jinqi - Leng
+		770 1103 792 1103 1102
 	}
-	path = {	# Yin - Coast
-		1101 765
+	path = {	# Leng - Yin
+		1102 1101
 	}
-
-	path = {	# Yin - Qarth
-		765 1095 1021 1019
+	# path = {	# Turrani - Leng Ma
+		# 790 791 1102
+	# }
+	path = {	# Turrani - Yin
+		790 1110 1100
+	}
+	path = {
+		1100 1101
+	}
+	path = {	# Yin - Jade Gate
+		1101 765 1095 1021 1019
 	}	
-	# path = {	# Yin - Qarth (via Asabhad)
-	# 	765 764 763 669 668 666 664 663
+	# path = {	# Jade Gate - Qarth (via Asabhad)
+		# 1021 669 1020 1019
 	# }
-	path = {	# Yin Coast - Ctl Jade Sea
-		1101 1100
+	path = {	# Turrani - Vahar
+		1101 1023 728 727 1025 729
 	}
-	path = {	# Ctl Jade Sea - Vahar
-		1100 1099 788 1023 728 727 1025 729
+	# path = {	# Vahar - Jade Gate
+		# 729 1028 719 1028 1019
+	# }
+	
+	path = {	# Jade Gate - Qarth
+		1019 663
 	}
 }
 
@@ -130,58 +139,54 @@ central_trade_route = {
 	
 	
 	##Northern Sea Route
-	path = {	# Port of Ibben - New Ibbish
-		585 590 985
+	path = {	# Port of Ibben - Morosh
+		585 576 985 984 983 981 979 545
 	}
-	path = {	# New Ibbish coast
-		985 576
-	}
-	path = {	# New Ibbish - Morosh
-		576 984 983 981 979 545
-	}
-	path = {	# Saath - Braavos Coast
-		544 978 977 976 471 974 975 971
-	}
-	path = {	#Braavos Coast - Braavos
-		971 470
+	path = {	# Morosh - Braavos
+		545 544 978 977 976 974 471 975 971 470
 	}
 	
 	##Roads to Pentos
-	path = {	# Vaes Dothrak - Sathar
-		709 708 706 703 565
+	path = {	# Vaes Dothrak - Sarnor
+		709 708 706 703
 	}
-	path = {	# Sathar - Morosh
-		565 564 562 561 556 557 551 550 546 545
+	path = {	# Gornath - Sarys
+		703 564 562 561 556 557 551 550 546
 	}
-	path = {	# Morosh - Saath
-		545 544
+	path = {	# Sarys - Morosh
+		546 545
 	}
-
+	# path = {	# Sarys - Saath
+		# 546 544
+	# }
 	path = {	# Sathar - Essaria
-		565 555 553 696 694 542
+		703 565 555 553 696 694 542
 	}
-	path = {	# Saath - Essaria
-		544 548 549 542
+	path = {	# Morosh - Essaria
+		545 544 548 549 542
 	}
 	path = {	# Essaria - Pentos
 		542 540 478 476 438 436 435 433 442 455 450 452 409 406
 	}
 	
-	##Roads to Mereen
+	##Roads to Meereen
 	path = {	# Qarth - Meereen
-		663 655 654 650 641 640 639 638
-	}
-	path = {	# Hesh - Mereen
-		638 607 606
+		663 1252 1251 1250 655 654 650 641 640 639 638 606
 	}
 	path = {	# Sathar -  Meereen
 		565 700 699 606
 	}
-	path = {	# Meereen - Volantis
-		606 605 604 600 599 598 484 483 419 417
-	}
-	path = {	# Mereen - Astapor
-		606 608 610 611 612 613
+	# path = {	# Qarth - Kosrak
+		# 663 1252 1251 1250 662 656 653 648
+	# }
+	# path = {	# Qarth - Hesh
+		# 663 1252 1251 1250 655 654 650 641 640 639 638
+	# }
+	# path = {	# Yinishar - Meereen
+		# 660 661 645 644 643 637 606
+	# }
+	path = {	# Meereen -  Volantis
+		606 605 604 600 599 598 484 483 419
 	}
 }
 
@@ -207,31 +212,27 @@ southern_trade_route = {
 	#	597	#Valyria
 	}
 	
-	##Qarth to Ghis
-	path = {	# Qarth - Jade Gates
-		663 1019
-	}
-	path = {	# Qarth - Ghiscari Strait
-		1019 1018 1017 1016
-	}
-	path = {	# Ghiscari Strait - Old Ghis
-		1016 619
-	}
-	path = {	# Ghiscari Strait - New Ghis
-		1016 625
-	}
+	##YI TI
 	
-	#Link to Far Eastern routes (Vahar)
-	path = {	# Vahar - Cst of Ghiscar
-		729 1028 1047 1017
+	##Routes to Valyria
+	path = {	# Qarth - Ghiscar
+		663 1019 1018 1017
 	}
-	
-	#Summer Islands
-	path = {	#Aquos Dhaen - Naath
-		1011 1048 626
+	path = {	# Vahar - Ghiscar
+		729 1047 1017
 	}
-	path = {	#Naath -  Summer Islands
-		626 1042 1050 1064
+	path = {
+		1017 1016
+	}
+		
+	path = {	#Ghiscar - Valyria
+		1016 625 1013
+	}
+	path = {
+		1016 619 1013
+	}
+	path = {
+		1013 1012 1011
 	}
 	path = {	#Red Flower Vale
 		1064 1062 526
@@ -252,17 +253,17 @@ southern_trade_route = {
 	# path = {	#Aquos Dhaen - Sthrn Valyrian Sea
 	# 	757 1011
 	# }
-	path = {	#Old Volantis - Coast
-		419 1005
-	}
-	path = {	#Volantis - Lys
-		1005 1004 368
-	}
 	
 	##Roads to Valyria
 	path = {	#Aquos Dhaen - Volantis
 	#	1011 1184 1007 1005
 		1011 1007 1005
+	}
+	path = {
+		1005 419 417
+	}
+	path = {	#Lys
+		1005 1004 1003 368
 	}
 	path = {	#Old Ghis - W. Gulf of Grief
 		619 1013 1012 
@@ -323,8 +324,14 @@ rhoyne_trade_route = {
 	path = {	#Qohor - Dagger Lake
 		476 429 428
 	}
-	path = {	#Dagger Lake - Sarhoy
-		428 413 423 422 420 417 762
+	path = {	#Dagger Lake - Volantis/Sarhoy
+		428 413 423 422 420 417
+	}
+	path = {
+		420 417
+	}
+	path = {
+		420 762
 	}
 }
 
