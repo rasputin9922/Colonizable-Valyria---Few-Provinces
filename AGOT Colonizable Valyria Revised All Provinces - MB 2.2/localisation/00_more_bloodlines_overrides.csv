@@ -94,7 +94,7 @@ durran_godsgrief;Blood of Durran Godsgrief;;;;;;;;;;;;;x
 orys_baratheon;Blood of Orys Baratheon;;;;;;;;;;;;;x
 galladon_of_morne;Blood of Ser Galladon of Morne;;;;;;;;;;;;;x
 swann;Swann Blood;;;;;;;;;;;;;x
-lightning_lords;Blood of the Lightning Lords;;;;;;;;;;;;;x
+lightning_lords;Blood of Blackhaven;;;;;;;;;;;;;x
 lord_of_the_marches;Blood of the Lord of the Marches;;;;;;;;;;;;;x
 renly_baratheon;Blood of King Renly Baratheon;;;;;;;;;;;;;x
 grey_king;Blood of the Grey King;;;;;;;;;;;;;x
@@ -140,8 +140,8 @@ plowman;Blood of Pate the Plowman;;;;;;;;;;;;;x	#forgive me for this horrible am
 clawisle;Red Crab Blood;;;;;;;;;;;;;x
 drop_of_the_dragon;A Drop of Dragon Blood;;;;;;;;;;;;;x
 plumm;Blood of House Plumm;;;;;;;;;;;;;x
-addam_velaryon;Blood of Addam Velaryon the Loyal;;;;;;;;;;;;x
 oakenfist;Blood of the Oakenfist;;;;;;;;;;;;x
+addam_velaryon;Blood of Addam Velaryon the Loyal;;;;;;;;;;;;x
 lord_of_tides;Blood of the Lords of the Tides;;;;;;;;;;;;;x
 two_drops;A Second Drop of Dragon Blood;;;;;;;;;;;;;x
 lothston;Lothston Blood;;;;;;;;;;;;;x
@@ -873,7 +873,7 @@ bloodline_rhaego_desc;Son of the mighty Khal Drogo and the exiled Westerosi Prin
 bloodline_house_ball_desc;An ancient house of the Reach, House Ball are descended from Florys the Fox. The most martial of the houses Florys founded, House Ball have reputation for bravery, valour, and martial prowess.;;;;;;;;;;;;;x
 bloodline_fireball_desc;Known as the Fireball for his fiery hair, and fiercer temper, Ser Quentyn Ball was Master of Arms of the Red Keep one of the finest swordsmen of his day and a great friend of Daemon Blackfyre.;;;;;;;;;;;;;x
 bloodline_house_peake_desc;An ancient house of the Reach, House Peake are descended from Florys the Fox. House Peake are known for their boundless ambition and rivalry with the Manderlys who they forced from the Reach.;;;;;;;;;;;;;x
-bloodline_house_florent_desc;An ancient house of the Reach, House Floren are descended from Florys the Fox. House Peake have a reputation for their ambition and their plotting.;;;;;;;;;;;;;x
+bloodline_house_florent_desc;An ancient house of the Reach, House Florent are descended from Florys the Fox. House Peake have a reputation for their ambition and their plotting.;;;;;;;;;;;;;x
 bloodline_sand_snake_desc;The Red Viper of Dorne was known for fathering a number of daughters, each said to share his viper eyes, cunning, and ability to defend themself. These daughters were known as the Sand Snakes.;;;;;;;;;;;;;x
 bloodline_hugh_hammer_desc;A tall blacksmith from Dragonstone, with hands strong enough to twist steel bars, Hugh Hammer answered Prince Jacaerys Velaryon call for dragonriders and successfully tamed Vermithor, the Bronze Fury, former mount of the Conciliator.;;;;;;;;;;;;;x
 bloodline_ulf_white_desc;A pale haired man of arms of Dragonstone, known for his drinking, Ulf White answered Prince Jacaerys Velaryon call for dragonriders and successfully tamed Silverwing, former mount of the Good Queen.;;;;;;;;;;;;;x
