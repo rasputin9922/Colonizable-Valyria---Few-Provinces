@@ -2,6 +2,9 @@ ca_winterfell_throne;Direwolf Throne;;;;;;;;;;;;;x
 ca_winterfell_throne_desc;The high seat of House Stark, where the Lords of Winterfell have sat since the days when they called themselves the Kings of Winter. The seat is cold stone, polished smooth by countless bottoms and  the carved heads of direwolves snarl on the ends of its massive arms. Though not as opulent as other thrones of Westeros, the high seat represents the power of the Lords of Winterfell and the legacy of House Stark, stretching back to the Age of Heroes.;;;;;;;;;;;;;x
 ca_iron_throne;The Iron Throne;;;;;;;;;;;;;x
 ca_iron_throne_desc;The Iron Throne is the seat of the Lord of the Seven Kingdoms, built on the orders of Aegon I after his Conquest. It is a cold, hard and imposing seat, made from the swords of those defeated by Aegon and his sisters. The thousand blades used to forge the throne were heated by the flames of Balerion the Black Dread and hammered for fifty-nine days. It is uncomfortable, and the back is fanged with steel which makes leaning back impossible. Aegon I had it made this way deliberately, saying that a king should never sit easy. Indeed it is said that the throne may even chose to reject those that sit upon them, cutting them with one of the many jagged blades used in its construction. Only the Lord of the Seven Kingdoms and his Hand may sit the throne and when the king is presiding, only he, his family, and his council may sit; all others must stand or kneel. When the King is seated atop the Iron Throne, with his Kingsguard standing below it, he radiates power and authority.;;;;;;;;;;;;;x
+ca_iron_dragonstone;The Iron Throne;;;;;;;;;;;;;x
+ca_iron_oldtown;The Iron Throne;;;;;;;;;;;;;x
+ca_iron_harrenhal;The Iron Throne;;;;;;;;;;;;;x
 ca_valyria_throne;The Throne of Valyria;;;;;;;;;;;;;x
 ca_valyria_throne_desc;The Throne of Valyria is the high seat of the Dragon Lords of The New Valyria. According to legend, the imposing throne was made from the valyrian swords of those who perished in the Doom with the dragon blood using old magics of the high priests of Mantarys.;;;;;;;;;;;;;x
 ca_driftwood_throne;The Driftwood Throne;;;;;;;;;;;;;x
@@ -52,4 +55,9 @@ ca_shieldhall_cb;The Shieldhall;;;;;;;;;;;;;x
 ca_shieldhall_cb_desc;An old feast hall of dank stone at the heart of Castle Black, able to accomodate two-hundred men at its table. It has been an ancient tradition of the Nightswatch that when a knight or noble joins the watch he puts aside his old life, placing his shield upon the walls of the Shieldhall and taking up the plain black shield of the brotherhood. When he dies the shield will be removed to go with him on his funeral pyre or tomb.;;;;;;;;;;;;;x
 ca_saltpans;Salt Pans;;;;;;;;;;;;;x
 ca_saltpans_desc;The flat estuary of the Trident where it flows into the Narrow Sea is perfect for salt panning, and there are extensive evaporation ponds fenced off along the shoreline, with smallfolk extracting baskets of salt which can then be traded.;;;;;;;;;;;;;x
-
+ca_mbs_manderly_fleet_smaller;White Harbour Fleet;;;;;;;;;;;;;x
+ca_mbs_manderly_fleet_smaller_desc;The Grand Warfleet of the North, constructed by Wyman Manderly at the behest of the Young Wolf using timber from Last Hearth. It is the first true fleet the North has had for hundreds of years, since Brandon the Burner put the torch to his father's ships.;;;;;;;;;;;;;x
+ca_mbs_manderly_fleet_larger;White Harbour Fleet;;;;;;;;;;;;;x
+ca_mbs_manderly_fleet_larger_desc;The Grand Warfleet of the North, constructed by Wyman Manderly at the behest of the Young Wolf. It is the first true fleet the North has had for hundreds of years, since Brandon the Burner put the torch to his father's ships.;;;;;;;;;;;;;x
+ca_mbs_umber_fleet;Last Hearth Longships;;;;;;;;;;;;;x
+ca_mbs_umber_fleet_desc;In return for the timber necessary to build the Grand Northern Warfleet at White Harbour, Lord Wyman Manderly gifted a squadron of swift longships to House Umber to protect the Bay of Seals from Wildling raids.;;;;;;;;;;;;;x
