@@ -68,7 +68,16 @@ castle = {
 		desc = ca_driftwood_throne_desc
 		potential = {
 			FROMFROM = {
-				title = b_driftmark
+				OR = {
+					AND = {
+						title = b_driftmark
+						NOT = { start_date = 8085.1.1 }
+					}
+					AND = {
+						title = b_high_tide
+						year = 8085
+					}
+				}
 			}
 		}
 		trigger = { always = no }
@@ -426,4 +435,98 @@ castle = {
 		vassal_opinion = 5
 		ai_creation_factor = 110
 	}
+	ca_mbs_manderly_fleet_smaller = {
+		desc = ca_mbs_manderly_fleet_smaller_desc
+		potential = {
+			has_province_flag = mbs_manderly_fleet_smaller
+			FROMFROM = {
+				title = b_newcastle
+			}
+		}
+		trigger = { always = no }
+		gold_cost = 200
+		build_time = 100
+		galleys = 75
+		monthly_character_prestige = 0.10
+		ai_creation_factor = 110
+	}
+	ca_mbs_manderly_fleet_larger = {
+		desc = ca_mbs_manderly_fleet_larger_desc
+		potential = {
+			has_province_flag = mbs_manderly_fleet_larger
+			FROMFROM = {
+				title = b_newcastle
+			}
+		}
+		trigger = { always = no }
+		gold_cost = 200
+		build_time = 100
+		galleys = 100
+		monthly_character_prestige = 0.10
+		ai_creation_factor = 110
+	}
+	ca_mbs_umber_fleet = {
+		desc = ca_mbs_umber_fleet_desc
+		potential = {
+			has_province_flag = mbs_manderly_fleet_umber
+			FROMFROM = {
+				title = b_fisherhall
+			}
+		}
+		trigger = { always = no }
+		gold_cost = 200
+		build_time = 100
+		galleys = 25
+		monthly_character_prestige = 0.10
+		ai_creation_factor = 110
+	}
+	ca_iron_dragonstone = {
+		desc = ca_iron_throne_desc
+		potential = {
+			has_global_flag = KL_not_capital
+			FROMFROM = {
+				title = b_stone_drum
+			}			
+		}
+		trigger = { always = no }
+		gold_cost = 200
+		build_time = 100
+		monthly_character_prestige = 0.50
+		knights = 7
+		vassal_opinion = 5
+		ai_creation_factor = 0
+	}
+	ca_iron_oldtown = {
+		desc = ca_iron_throne_desc
+		potential = {
+			has_global_flag = KL_not_capital
+			FROMFROM = {
+				title = b_oldtown_city_walls
+			}			
+		}
+		trigger = { always = no }
+		gold_cost = 200
+		build_time = 100
+		monthly_character_prestige = 0.50
+		knights = 7
+		vassal_opinion = 5
+		ai_creation_factor = 0
+	}
+	ca_iron_harrenhal = {
+		desc = ca_iron_throne_desc
+		potential = {
+			has_global_flag = KL_not_capital
+			FROMFROM = {
+				title = b_harrenhal
+			}			
+		}
+		trigger = { always = no }
+		gold_cost = 200
+		build_time = 100
+		monthly_character_prestige = 0.50
+		knights = 7
+		vassal_opinion = 5
+		ai_creation_factor = 0
+	}
+}
 }
