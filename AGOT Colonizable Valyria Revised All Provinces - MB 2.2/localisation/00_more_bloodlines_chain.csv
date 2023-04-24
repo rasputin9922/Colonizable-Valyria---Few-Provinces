@@ -249,6 +249,12 @@ EVTOPTAmore_bloodlines.90;Pass me another trencher.;;;;;;;;;;;;;x
 EVTOPTBmore_bloodlines.90;No I must resist!;;;;;;;;;;;;;x
 EVTDESCmore_bloodlines.91;The men of House Manderly have long been known to be rather big boned. Whilst you have long struggled with your weight, there are some advantages that you have found to your large size - you can put more force into your blows and take more of a beating than many of the others you know and as a result you note that you are rather sturdy.;;;;;;;;;;;;;x
 EVTOPTAmore_bloodlines.91;I have become rather strong.;;;;;;;;;;;;;x
+EVTDESCmore_bloodlines.92;Those whose blood you bear have achieved many great and mighty deeds, carving their names into history through their achievments. Of late you find yourself reflecting on these grand deeds and your pride in them.;;;;;;;;;;;;;x
+EVTOPTAmore_bloodlines.92;I have become rather proud.;;;;;;;;;;;;;x
+EVTOPTBmore_bloodlines.92;I should stay humble.;;;;;;;;;;;;;x
+EVTDESCmore_bloodlines.93;The men of House Slynt have long been known to be rather plain-faced. Over recent weeks you have noticed that your face is seeming sullen and out of proportion. Perhaps your Slynt blood is starting to show...;;;;;;;;;;;;;x
+EVTOPTAmore_bloodlines.93;Maybe its just this mirror...;;;;;;;;;;;;;x
+
 ##############################
 EVTDESCmore_bloodlines.98;During my training and meditation with the Elder in the forest glade I felt my mind begin to forge a strong new connection with a new animal. In time I came to realise I had acquired a new skin!;;;;;;;;;;;;;x
 EVTOPTAmore_bloodlines.98;Excellent.;;;;;;;;;;;;;x
@@ -298,6 +304,8 @@ EVTDESCmore_bloodlines.219;Some men achieve fame through feats of arms, through 
 EVTOPTAmore_bloodlines.219;Let my line endure through all the ages!;;;;;;;;;;;;;x
 EVTDESCmore_bloodlines.220;I have become King of the Andals and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm. Now all must bow to House [Root.GetOnlyDynastyName].;;;;;;;;;;;;;x
 EVTOPTAmore_bloodlines.220;Let the singers and bards speak of my name until the end of days.;;;;;;;;;;;;;x
+EVTDESCmore_bloodlines.221;I have brought the Stepstones to heel and carved out a kingdom of my own! I am a mere prince no more!;;;;;;;;;;;;;x
+EVTOPTAmore_bloodlines.221;Fire and Blood!;;;;;;;;;;;;;x
 EVTDESCmore_bloodlines.230;I have unified the islands into a grand pirate kingdom and my followers sing the praises of House [Root.GetOnlyDynastyName]! I have attained a position all pirates and corsairs dream of reaching but few ever achieve, now I must choose how what model my descendants and I shall rule by. There are many paths to choose - I may rule through fear, trade, diplomacy - which shall I choose?;;;;;;;;;;;;;x
 EVTOPTAmore_bloodlines.230;I shall work to grow trade as well as plunder it.;;;;;;;;;;;;;x
 EVTOPTBmore_bloodlines.230;I shall raid and burn wherever the sea takes me.;;;;;;;;;;;;;x
@@ -2416,12 +2424,12 @@ EVTOPTAvulture_king.10;We shall raid across the Marches once more;;;;;;;;;;;;;x
 
 EVTTITLE_mbs_NW_tour.1;The Recruitment Tour;;;;;;;;;;;;;x
 EVTDESC_mbs_NW_tour.1;For thousands of years the Watch have defended the Wall and the realms of men. But the Watch needs men and wealth to survive against what lies to the North. With time, less and less noble men and good fighters decide to join the Watch on their own, and the Watch has been forced to rely on murderers, rapists and whatever kind of criminal the lords of the South have sent them for them to die in the Wall instead of their prisons. It is now a custom for the Watch to send a wandering crow to several lords and castles seeking for these kind of recruits, and its been quite sometime since the last one...;;;;;;;;;;;;;x
-EVTOPTA_NW_tour.1;The Watch always need more gold and men;;;;;;;;;;;;;x
-EVTOPTB_NW_tour.1;No, I will not beg to anyone;;;;;;;;;;;;;x
+EVTOPTA_NW_tour.1;The Watch always need more gold and men...;;;;;;;;;;;;;x
+EVTOPTB_NW_tour.1;No, I will not ask for those lords pity;;;;;;;;;;;;;x
 EVTTITLE_mbs_NW_tour.2;The Recruiter of the Watch;;;;;;;;;;;;;x
 EVTDESC_mbs_NW_tour.2;A recruiter from the Nights Watch arrives at your castle asking for some help. The Watch is in need of good men and gold to survive another winter. Perhaps its a good chance to get rid of your prisoners, or even join the Watch yourself...;;;;;;;;;;;;;x
 EVTOPTA_NW_tour.2;I can lend some gold for the Watch;;;;;;;;;;;;;x
-EVTOPTB_NW_tour.2;Take any prisoner from the cells;;;;;;;;;;;;;x
+EVTOPTB_NW_tour.2;The Watch is always welcome here, take any prisoner in the cells;;;;;;;;;;;;;x
 EVTOPTC_NW_tour.2;I will take the vows myself, it is time for my son to rule;;;;;;;;;;;;;x
 EVTOPTD_NW_tour.2;Get out of here, I have no time for the Watch;;;;;;;;;;;;;x
 EVTTITLE_mbs_NW_tour.3;Recruitment in the South;;;;;;;;;;;;;x
@@ -2430,7 +2438,7 @@ EVTOPTA_NW_tour.3;Try in the Riverlands and the Vale;;;;;;;;;;;;;x
 EVTOPTB_NW_tour.3;I need every men we can get now, get back immediately;;;;;;;;;;;;;x
 EVTTITLE_mbs_NW_tour.4;A Recruiter from the North;;;;;;;;;;;;;x
 EVTDESC_mbs_NW_tour.4;A recruiter from the Nights Watch has arrived at your castle, it seems the Lord Commander wants either your prisoners or your gold. You could certainly get rid of your prisoners, or you could join the Watch yourself...;;;;;;;;;;;;;x
-EVTOPTB_NW_tour.4;Take some prisoners from the cells and leave;;;;;;;;;;;;;x
+EVTOPTB_NW_tour.4;Take some prisoners from the cells;;;;;;;;;;;;;x
 EVTOPTC_NW_tour.4;My time has come, I will leave with you;;;;;;;;;;;;;x
 EVTOPTD_NW_tour.4;Why should a Wall so far away concern me?;;;;;;;;;;;;;x
 EVTTITLE_mbs_NW_tour.5;Tour in the Stormlands;;;;;;;;;;;;;x
@@ -2453,7 +2461,7 @@ EVTOPTA_NW_tour.11;He better survive for the sake of the Watch...;;;;;;;;;;;;;x
 EVTDESCmbs_seductress.1;As a beautiful daughter of a lord you have always gotten what you desired. It seems a pretty lowborn man has set his eyes on you, he is no fit to lay with someone like you, but your lust is starting to get the better of you...;;;;;;;;;;;;;x
 EVTOPTAmbs_seductress.1;I can do whatever I want, and no one will know...;;;;;;;;;;;;;x
 EVTOPTBmbs_seductress.1;I cannot do this, I will not risk my status;;;;;;;;;;;;;x
-EVTDESCmbs_seductress.2;You still cannot believe what happened. Your daughter has been caught laying with a commoner behind your back. Wether she was the one who was seduced or not is yet to be determined. You have commanded your daughter be brought before you. She arrives proudly and smiling, still ignorant to your anger...;;;;;;;;;;;;;x
+EVTDESCmbs_seductress.2;You still cannot the news when you received it. Your daughter has been caught laying with a commoner behind your back. Wether she was the one who was seduced or not is yet to be determined. You have commanded your daughter be brought before you. She arrives proudly and smiling, still ignorant to your anger...;;;;;;;;;;;;;x
 EVTOPTAmbs_seductress.2;The Silent Sisters shall teach you to be proper lady;;;;;;;;;;;;;x
 EVTOPTBmbs_seductress.2;I dont want to see you ever again, you have shamed me;;;;;;;;;;;;;x
 EVTOPTCmbs_seductress.2;I cannot punish my own daughter...;;;;;;;;;;;;;x
@@ -2550,4 +2558,52 @@ EVTTITLEmbs_redhills.1;The Red Hills;;;;;;;;;;;;;x
 EVTDESCmbs_redhills.1;The northern hills of the Kingdom of the Rock are a land of valleys and cliffs, rich in precious metals. The narrow passes of this land are easily defended, holding natural chokepoints between the fertile rivers to the east and the wide grasslands to the west and south. Now that you hold these lands it is time for a new kingdom to rise, the kingdom of the Red Hills.;;;;;;;;;;;;;x
 EVTOPTA_mbs_redhills.1;A new power rises in the West.;;;;;;;;;;;;;x
 
-
+EVTTITLEmbs_vale_conquest.1;The Question of the Vale;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.1;The brave lords of the Vale have risen in support of your cause, lending you their swords and swearing their loyalty to you as the so-called "Lords Declarant." Unfortunately the same cannot be said for your cousin [k_vale.Holder.GetTitledFirstNameWithDynasty] in the Eyrie, who cowered behind the walls of [k_vale.Holder.GetHerHis] House's ancient keep, refusing your call to arms and the entreaties of [k_vale.Holder.GetHerHis] vassals. Now the vale is a land divided, riven between those who call you their king and those who still look to the Eyrie for leadership. What should we do about these new, uneasy borders?;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.1;I shall seek to negotiate a peaceful solution.;;;;;;;;;;;;;x
+EVTOPTbmbs_vale_conquest.1;House Royce have been loyal to me, and should be rewarded by being made Lords Paramount.;;;;;;;;;;;;;x
+EVTOPTCmbs_vale_conquest.1;The heir to the Eyrie, the young Ser Harrold could be supported in his claim.;;;;;;;;;;;;;x
+EVTOPTDmbs_vale_conquest.1;The Vale shall be split between the Trident and the North.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.2;The Question of the Vale;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.2;I will write again to [k_vale.Holder.GetTitledFirstNameWithDynasty] and ask [k_vale.Holder.GetHerHim] to join my realm peacefully. Perhaps this time [k_vale.Holder.GetSheHe] shall see sense and will bend the knee and so that I can return [k_vale.Holder.GetHerHis] lands to [k_vale.Holder.GetHerHim]. Maybe if I also offer [k_vale.Holder.GetHerHim] a more durable marriage alliance then [k_vale.Holder.GetSheHe] is more likely to accept.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.2;I have no need to bargain thus.;;;;;;;;;;;;;x
+EVTOPTbmbs_vale_conquest.2;I shall offer Arya.;;;;;;;;;;;;;x
+EVTOPTCmbs_vale_conquest.2;I shall offer Sansa.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.201;The Young Wolf's Offer;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.201;Fresh from having caused half of your vassals to abandon you and betray their oaths, [e_north.Holder.GetTitledFirstNameWithDynasty] has written to you seeking negotiations for you to bend the knee to [e_north.Holder.GetHerHim]. [e_north.Holder.GetSheHeCap] writes that should you acknowledge [e_north.Holder.GetHerHim] as the liege of all the Vale, [e_north.Holder.GetSheHe] will return to various vassals to you and integrate the Vale into [e_north.Holder.GetHerHis] grand new Northern kingdom.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.201;I shall accept this proposal.;;;;;;;;;;;;;x
+EVTOPTbmbs_vale_conquest.201;I shall refuse this proposal.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.202;The Young Wolf's Offer;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.202;Fresh from having caused half of your vassals to abandon you and betray their oaths, [e_north.Holder.GetTitledFirstNameWithDynasty] has written to you seeking negotiations for you to bend the knee to [e_north.Holder.GetHerHim]. [e_north.Holder.GetSheHeCap] writes that should you acknowledge [e_north.Holder.GetHerHim] as the liege of all the Vale, [e_north.Holder.GetSheHe] will return to various vassals to you and integrate the Vale into [e_north.Holder.GetHerHis] grand new Northern kingdom. As a gesture of good faith and to seal this treaty, [e_north.Holder.GetSheHe] [e_north.Holder.GetHerHis] sister, Princess Arya as your bride.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.202;I shall accept this proposal.;;;;;;;;;;;;;x
+EVTOPTbmbs_vale_conquest.202;I shall refuse this proposal.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.203;The Young Wolf's Offer;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.203;Fresh from having caused half of your vassals to abandon you and betray their oaths, [e_north.Holder.GetTitledFirstNameWithDynasty] has written to you seeking negotiations for you to bend the knee to [e_north.Holder.GetHerHim]. [e_north.Holder.GetSheHeCap] writes that should you acknowledge [e_north.Holder.GetHerHim] as the liege of all the Vale, [e_north.Holder.GetSheHe] will return to various vassals to you and integrate the Vale into [e_north.Holder.GetHerHis] grand new Northern kingdom. As a gesture of good faith and to seal this treaty, [e_north.Holder.GetSheHe] [e_north.Holder.GetHerHis] sister, the Princess Sansa as your bride.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.203;I shall accept this proposal.;;;;;;;;;;;;;x
+EVTOPTbmbs_vale_conquest.203;I shall refuse this proposal.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.3;The Question of the Vale;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.3;In recognition of their efforts in leading the Lords Declarant to come to fight under my banner, I will proclaim [c_runestone.Holder.GetTitledFirstNameWithDynasty] to be the ruler of the Vale lands that I hold, [c_runestone.Holder.GetSheHe] will rule as a new Lord Paramount and all of my Valeman vassals shall be sworn to [c_runestone.Holder.GetHerHim]. This new Kingdom of Runestone will hold securely my eastern flank.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.3;Arise, [c_runestone.Holder.GetTitledFirstNameWithDynasty].;;;;;;;;;;;;;x
+EVTOPTbmbs_vale_conquest.3;On second thoughts there are better options.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.301;The Young Wolf's Offer;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.301;In recompense for you having led the Lords Declarant in breaking free of the Eyrie and pledging your swords to the North in their struggle for freedom, [e_north.Holder.GetTitledFirstNameWithDynasty] has pledged to reward you with a gift that you never thought that you would receive. [e_north.Holder.GetSheHeCap] plans to proclaim a new kingdom in the Vale, to hold the various Vale lands on behalf of Winterfell. [e_north.Holder.GetHerHisCap] Grace plans to install you as the first Lord Paramount of this new realm, lifting House Royce to a level of honour not seen since the Battle of Sevenstars when we contended with the Arryns for the rule of the Vale. Now once more we Runestone shall be the capital of a mighty realm and scores of lesser lords shall do us homage.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.301;I shall accept this proposal.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.302;The Young Wolf's Offer;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.302;Fresh from having caused half of your vassals to abandon you and betray their oaths, [e_north.Holder.GetTitledFirstNameWithDynasty] has unleashed a fresh new insult upon you. [e_north.Holder.GetSheHeCap] plans to proclaim a new kingdom in the Vale, composed of the various traitor lords who turned their cloaks to follow [e_north.Holder.GetHerHim]. To cap off this insult, [e_north.Holder.GetSheHe] plans to proclaim [c_runestone.Holder.GetTitledFirstNameWithDynasty] as the holder of these lands, claiming that they sit on an even level with our noble house.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.302;Vile treachery.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.5;The Question of the Vale;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.5;In recognition of their loyalty and honour in fighting for our cause, and as recompense for the severe harrying of their lands by the Lannister dogs,  [k_riverlands.Holder.GetTitledFirstNameWithDynasty] is to be granted the overlordship of the Vale lands that I hold. The borders of the Trident will be expanded and my Valeman vassals shall be sworn to [k_riverlands.Holder.GetHerHim]. I will retain the Sisters as a part of the North in recognition of their strategic importance and our ancient claims on them, but the rest shall be sworn to the Riverlands which will now stretch from the Cape of Eagles to the Fingers and all across the Vale.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.5;Arise, [k_riverlands.Holder.GetTitledFirstNameWithDynasty].;;;;;;;;;;;;;x
+EVTOPTbmbs_vale_conquest.5;On second thoughts there are better options.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.501;The Young Wolf's Offer;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.501;In recompense for you having served the North faithfully, [e_north.Holder.GetTitledFirstNameWithDynasty] has pledged to reward you with a gift that you never thought that you would receive. [e_north.Holder.GetSheHeCap] plans to grant you control of all of the Vale under  [e_north.Holder.GetHerHis] control, with the exception of the Three Sisters. [e_north.Holder.GetHerHisCap] Grace plans to expand the borders of the Trident almost twofold, granting you a level of prestige and power that your forebears could barely dream of.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.501;I shall accept this proposal.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.502;The Young Wolf's Offer;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.502;Fresh from having caused half of your vassals to abandon you and betray their oaths, [e_north.Holder.GetTitledFirstNameWithDynasty] has unleashed a fresh new insult upon you. [e_north.Holder.GetSheHeCap] plans to proclaim that the various traitor lords who turned their cloaks to follow [e_north.Holder.GetHerHim] are now to form part of the Trident, swearing fealty to Riverrun, which now claims huge swathes of the Vale for the Riverlands.;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.502;Vile treachery.;;;;;;;;;;;;;x
+EVTTITLEmbs_vale_conquest.7;The Question of the Vale;;;;;;;;;;;;;x
+EVTDESCmbs_vale_conquest.7;Our offers of a peaceful negotiation have been rejected. Despite our warm words and kind offers, [k_vale.Holder.GetTitledFirstNameWithDynasty] has turned us down, delaring that [k_vale.Holder.GetHerHis] knees shall never bend to Winterfell. In light of this, which of the remaining options shall we turn to?;;;;;;;;;;;;;x
+EVTOPTAmbs_vale_conquest.7;I shall seek to negotiate a peaceful solution.;;;;;;;;;;;;;x
+EVTOPTbmbs_vale_conquest.7;House Royce have been loyal to me, and should be rewarded by being made Lords Paramount.;;;;;;;;;;;;;x
+EVTOPTCmbs_vale_conquest.7;The heir to the Eyrie, the young Ser Harrold could be supported in his claim.;;;;;;;;;;;;;x
+EVTOPTDmbs_vale_conquest.7;The Vale shall be split between the Trident and the North.;;;;;;;;;;;;;x

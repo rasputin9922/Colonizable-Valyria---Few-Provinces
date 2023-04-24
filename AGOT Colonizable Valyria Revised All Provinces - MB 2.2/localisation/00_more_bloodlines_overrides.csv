@@ -493,6 +493,9 @@ clubfoot_bloodline;Blood of Larys Clubfoot;;;;;;;;;;;;;x
 rogueprince_bloodline;Blood of the Rogue Prince;;;;;;;;;;;;;x
 florian_bloodline;Blood of Florian the Fool;;;;;;;;;;;;;x
 weeper_bloodline;Blood of the Weeper;;;;;;;;;;;;;x
+vulture_king_mbs_bl;Blood of the Vulture King;;;;;;;;;;;;;x
+black_harren_bl;Blood of Black Harren;;;;;;;;;;;;;x
+sage_kings_bl;Blood of Three Sage Kings;;;;;;;;;;;;;x
 greenhand_desc;A mythical King of the First Men, said to have led them to Westeros. The ancestor of many houses of the Reach he wore a crown of flowers and made the land bloom.;;;;;;;;;;;;;x
 garth_the_gardener_desc;The son of Garth Greenhand and founder of House Gardener, he made his home atop a hill above the River Mander that would become known as Highgarden.;;;;;;;;;;;;;x
 garth_goldenhand_desc;The greatest Gardener King. Known as the Goldenhand, for his deeds both in war and in peace, he ruled for eighty-one years, of which less than ten were spent at war.;;;;;;;;;;;;;x
@@ -987,6 +990,9 @@ clubfoot_bloodline_desc;A younger son of Lord Lyonel Strong, Larys Strong was bo
 rogueprince_bloodline_desc;Brother to King Viserys I, Prince Daemon was a fierce warrior who wielded the Valyrian steel sword Dark Sister and rode the dragon Caraxes. He helped Lord Corlys Velaryon subdue the Triarchy's hold on the Stepstones, briefly crowning himself King of the Narrow Sea.;;;;;;;;;;;;;x
 florian_bloodline_desc;A legendary hero from the riverlands, Florian was a great fool and a great knight who wore a suit of iron motley and was not of noble birth. He is known for falling in love with a maiden named Jonquil who he first saw at Maidenpool, and having a famous sword.;;;;;;;;;;;;;x
 weeper_bloodline_desc;A notorious wildling raider called the Weeper due to his watery eyes, he is known for killing rangers of the Night's Watch and raiding the northern mountain clans, often cruelly blinding his victims.;;;;;;;;;;;;;x
+vulture_king_mbs_bl_desc;[This.GetTitledFirstName] succewssfully won a vulture hunt rebellion against the Andals to the north, bringing fame and plunder to the Red Mountains.;;;;;;;;;;;;;x
+black_harren_bl_desc;A vain, bloody tyrant hated by those he ruled, Black Harren Hoare was the cruel and vicious tyrant who ruled the Iron Isles and the Riverlands. Desiring a grand seat to rule from, harren commanded the construction of the grand castle Harrenhal, a project that took almost forty years to complete. The riverlands and Iron Islands were drained to finance the building, with thousands of captives dying in the quarries, chained to sledges, or laboring on the towering walls and five huge towers.;;;;;;;;;;;;;x
+sage_kings_bl_desc;King Garth IX, his son King Merle I, and Merle's son King Gwayne V are collectively known as the Three Sage Kings. A trio of wise and cunning Kings of the Reach, they sought to bind the invading Andals to Highgarden by marriage and patronage, learning tactics and metalworking from them, rather than seeking to beat the back by force of arms. In the words of King Gwayne V "They gave us seven gods, we gave them dirt and daughters, and our sons and grandsons shall be as brothers.";;;;;;;;;;;;;x
 
 
 
