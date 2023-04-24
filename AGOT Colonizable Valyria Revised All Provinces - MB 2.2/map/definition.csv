@@ -1,4 +1,4 @@
-province;red;green;blue;name;x #name left blank = transparent wasteland
+province;red;green;blue;x;x
 1;4;100;255;Land Of Always Winter;x
 2;152;118;64;Thenn;x
 3;133;102;0;Northern Frostfangs;x
@@ -35,15 +35,15 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 34;134;126;128;Sea Dragon Point;x
 35;6;124;64;Deepwood;x
 36;135;142;0;Blue Hills;x
-37;26;152;192;Blackgrove;x #Ironrath
+37;26;152;192;Blackgrove;x
 38;135;130;255;King's Grove;x
 39;164;34;128;Wolfswood;x
 40;4;88;192;Stony Shore;x
 41;155;154;255;The Rills;x
 42;165;42;64;Withered Heath;x
-43;8;144;64;Blazewater Coast;x #Rillwater Crossing
+43;8;144;64;Blazewater Coast;x
 44;1;56;128;Torrhen's Square;x
-45;165;38;255;Spearmouth;x #Goldgrass
+45;165;38;255;Spearmouth;x
 46;136;146;128;Barrowton;x
 47;3;80;255;Winterfell;x
 48;36;32;64;Acorn Grove;x
@@ -91,7 +91,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 90;167;70;0;Blackwood Vale;x
 91;39;72;64;Stone Hedge;x
 92;38;56;192;Blue Fork;x
-93;166;58;255;Red Fork;x #Fieldstone
+93;166;58;255;Red Fork;x
 94;12;72;255;Darry;x
 95;38;60;0;Chiltern;x
 96;167;74;128;Lychester;x
@@ -114,7 +114,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 113;28;248;0;Deddington;x
 114;40;80;0;Atranta;x
 115;157;54;192;Shoreham;x
-116;142;102;255;Esgaroth;x #Butterwell
+116;142;102;255;Esgaroth;x
 117;131;82;0;Isle Of Faces;x
 118;24;124;255;Longsister;x
 119;153;126;0;Sweetsister;x
@@ -132,11 +132,11 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 131;138;46;64;Snakewood;x
 132;43;124;128;Sunrise Keep;x
 133;9;40;192;Strongsong;x
-134;138;50;192;Darkmoor;x #Stonyhead
+134;138;50;192;Darkmoor;x
 135;171;130;0;Crown Crag;x
 136;4;92;0;The Eyrie;x
 137;10;48;128;Heart's Home;x
-138;29;56;255;Upcliff;x #Breakstone
+138;29;56;255;Upcliff;x
 139;11;60;192;Longbow Hall;x
 140;10;52;255;Bloody Gate;x
 141;157;58;0;Grey Glen;x
@@ -193,7 +193,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 192;172;146;192;Drox Castle;x
 193;158;78;0;Peckledon;x
 194;15;116;64;Payne Hall;x
-195;143;118;128;Silverhall;x #Silverhill
+195;143;118;128;Silverhall;x
 196;44;148;255;Redbramble;x
 197;144;138;128;Crakehall;x
 198;45;152;64;Falwell;x
@@ -213,7 +213,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 212;141;98;128;Duskendale;x
 213;40;88;255;Hollard Hall;x
 214;31;84;192;Rook's Rest;x
-215;13;92;255;South Crackclaw Point;x #Crackclaw Barren
+215;13;92;255;South Crackclaw Point;x
 216;41;96;192;Dyre Den;x
 217;159;82;128;The Whispers;x
 218;141;94;0;North Crackclaw Point;x
@@ -267,7 +267,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 266;173;34;64;Smallwood;x
 267;130;70;255;Highgarden;x
 268;131;86;128;Cider Hall;x
-269;32;104;192;New Barrel;x #Dunstonbury
+269;32;104;192;New Barrel;x
 270;145;150;192;Ashford;x
 271;160;106;255;Manderford;x
 272;174;38;192;Norcross;x
@@ -322,7 +322,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 321;177;82;0;Blue Grove;x
 322;147;46;0;Mistwood;x
 323;19;48;64;Rain House;x
-324;177;78;192;Weeping Tower;x #Wrathtown
+324;177;78;192;Weeping Tower;x
 325;49;88;192;Wrathrock;x
 326;1;48;192;Estermont;x
 327;148;62;192;Blackmont;x
@@ -354,7 +354,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 353;35;140;64;Sunstone;x
 354;168;210;77;Riverspring;x
 355;0;0;205;Castlewood;x
-356;42;3;78;Flint Keep;x #Breakstone Hill
+356;42;3;78;Flint Keep;x
 357;146;30;21;Lonely Light;x
 358;126;9;79;Bloodstone;x
 359;168;12;207;Grey Gallows;x
@@ -368,17 +368,17 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 367;84;36;211;Tyrosh;x
 368;126;39;84;Lys;x
 369;168;42;212;Tyroshi Landing;x
-370;0;45;85;The Disputed Peninsula;x #Vilibosh
+370;0;45;85;The Disputed Peninsula;x
 371;42;48;213;Kylos;x
 372;84;51;86;Dyreno Hill;x
 373;126;54;214;Vysos Plains;x
-374;168;57;87;Lysene Forest;x #Morghos
-375;0;60;215;Forest Of Myr;x #Khios
+374;168;57;87;Lysene Forest;x
+375;0;60;215;Forest Of Myr;x
 376;42;63;88;Disputed Forest;x
 377;84;66;216;Myrwater;x
 378;126;69;89;Myr;x
 379;168;72;217;Rynlos;x
-380;0;75;90;Bay Of Myr;x #Naqes Embar
+380;0;75;90;Bay Of Myr;x
 381;42;78;218;Byloth;x
 382;84;81;91;Lortyr Bay;x
 383;126;84;219;Longlake;x
@@ -416,7 +416,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 415;0;180;135;Olvys Mell;x
 416;42;183;8;Vedys Lands;x
 417;84;186;136;Volantis;x
-418;126;189;9;Temple Of The Lord Of Light;x #The Great Plaza
+418;126;189;9;Temple Of The Lord Of Light;x
 419;168;192;137;Old Volantis;x
 420;0;195;10;Volon Therys;x
 421;42;198;138;Sar Mell;x
@@ -444,7 +444,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 443;126;51;149;Narros;x
 444;168;54;22;Mount Norvo;x
 445;0;57;150;Shalorath;x
-446;42;60;23;Lorathi Shore;x #Fisher Point
+446;42;60;23;Lorathi Shore;x
 447;84;63;151;Elbateros;x
 448;126;66;24;White Cliffs;x
 449;168;69;152;Ny Rhon Valley;x
@@ -461,12 +461,12 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 460;0;102;30;Willowsreach;x
 461;42;105;158;Malaqovos;x
 462;84;108;31;Freneros;x
-463;126;111;159;Braavosian Hills;x #Daerves Hills
+463;126;111;159;Braavosian Hills;x
 464;168;114;32;Prestaynos;x
 465;0;117;160;Moroggos;x
 466;42;120;33;Antaryonos;x
-467;84;123;161;Braavosian Fields;x #Ironport
-468;126;126;34;Braavosi Shore;x #Moonsbridge
+467;84;123;161;Braavosian Fields;x
+468;126;126;34;Braavosi Shore;x
 469;168;129;162;The Marshes;x
 470;0;132;35;Braavos;x
 471;42;135;163;Lorath;x
@@ -477,11 +477,11 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 476;42;150;38;Qohor;x
 477;84;153;166;Qovosar;x
 478;126;156;39;Goatwood;x
-479;168;159;167;Qohorik Coast;x #Hobreth
+479;168;159;167;Qohorik Coast;x
 480;0;162;40;Satholik;x
 481;42;165;168;Sungrove;x
 482;84;168;41;Ar Selrys;x
-483;126;171;169;Volantene Coast;x #Arlior Geron
+483;126;171;169;Volantene Coast;x
 484;168;174;42;Little Valyria;x
 485;0;177;170;Vasyugys;x
 486;42;180;43;Death Swamps;x
@@ -493,8 +493,8 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 492;84;198;46;Isle Of Women;x
 493;126;201;174;Last Lament;x
 494;168;204;47;Lotus Valley;x
-495;0;207;175;Mantisleaf;x #Jhahar
-496;42;210;48;Lotus Port;x #Lotus Point
+495;0;207;175;Mantisleaf;x
+496;42;210;48;Lotus Port;x
 497;84;0;176;Ambershore;x
 498;126;3;49;Jalabuxon;x
 499;0;9;50;Kone Forest;x
@@ -639,7 +639,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 638;126;210;19;Hesh;x
 639;168;0;147;Lhazosh;x
 640;0;3;20;Hoshorak;x
-641;42;6;148;Vaes Orvik;x #Makhrosh
+641;42;6;148;Vaes Orvik;x
 642;84;9;21;Port Yhos;x
 643;126;12;149;Ghardaq;x
 644;168;15;22;Wurzkai;x
@@ -648,7 +648,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 647;84;24;151;Geledhan;x
 648;126;27;24;Kosrak;x
 649;168;30;152;Virzosh;x
-650;0;33;25;Vaes Shirosi;x #Nekhos
+650;0;33;25;Vaes Shirosi;x
 651;42;36;153;Western Red Waste;x
 652;84;39;26;Old Waste Road;x
 653;126;42;154;Vaes Tolorro;x
@@ -1019,15 +1019,15 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 1018;150;200;250;Crimson Sea;x
 1019;151;220;250;Jade Gates;x
 1020;70;198;30;Night Valleys;x
-1021;153;200;200;Northern Jade Sea;x #Asabhadi Sea
-1022;154;200;250;Central Jade Sea;x #Moraqi Coast
-1023;155;220;250;Central Jade Sea;x #Western Jade Sea
+1021;153;200;200;Northern Jade Sea;x
+1022;154;200;250;Central Jade Sea;x
+1023;155;220;250;Central Jade Sea;x
 1024;9;53;8;First Forest;x
-1025;157;200;200;Southern Cinnamon Straits;x #Cinnamon Straits
-1026;158;200;250;Western Jade Sea;x #Sea Of Sothoryos
+1025;157;200;200;Southern Cinnamon Straits;x
+1026;158;200;250;Western Jade Sea;x
 1027;205;124;160;The Giant's Stairs;x
 1028;160;250;250;Coast Of Faros;x
-1029;161;200;200;Western Jade Sea;x #Cinnamon Straits
+1029;161;200;200;Western Jade Sea;x
 1030;69;149;224;Free Vale;x
 1031;152;188;142;Great Ice River;x
 1032;164;250;250;Cape Wyvern;x
@@ -1101,11 +1101,11 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 1100;136;162;251;Central Jade Sea;x
 1101;154;186;233;Coast Of Yin;x
 1102;133;226;254;Straits Of Leng;x
-1103;91;174;164;Bay Of Leng;x #Bay of Jinqi
+1103;91;174;164;Bay Of Leng;x
 1104;148;175;239;Eastern Coast Of Leng;x
 1105;138;224;249;Coast Of Jinqi;x
-1106;151;189;236;Rhoyne;x #Shadow Coast
-1107;155;227;232;Myrwater;x #Southern Coast Of Leng
+1106;151;189;236;Shadow Coast;x
+1107;155;227;232;Southern Coast Of Leng;x
 1108;148;166;239;Central Jade Sea;x
 1109;152;208;235;Manticore Sea;x
 1110;157;157;230;Central Jade Sea;x
@@ -1120,7 +1120,7 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 1119;47;113;221;Eastern Thousand Islands;x
 1120;139;239;248;Bay Of Nefer;x
 1121;50;205;218;Mosovny Coast;x
-1122;155;226;232;Lake Of Myrth;x #Eastern Shivering Sea
+1122;155;226;232;Eastern Shivering Sea;x
 1123;88;180;177;Eastern Shivering Sea;x
 1124;79;181;189;Eastern Shivering Sea;x
 1125;150;206;237;Eastern Shivering Sea;x
@@ -1149,27 +1149,27 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 1148;181;100;25;Dendrrah;x
 1149;50;48;241;The Upper Sarne;x
 1150;50;102;241;The Upper Sarne;x
-1151;204;35;102;Dromon Hill;x #RESERVED VALYRIA PROVINCE IDS
+1151;204;35;102;Dromon Hill RESERVED VALYRIA PROVINCE IDS;x
 1152;204;99;101;Bianoros;x
 1153;204;2;4;Pyrys;x
 1154;204;25;26;Bane Road;x
 1155;104;166;26;Urnebyria;x
 1156;204;165;27;Dragonfields;x
-1157;104;164;27;Lyztarys;x #Not used
+1157;104;164;27;Lyztarys;x
 1158;204;163;27;The Marble Pass;x
 1159;104;162;127;Elenar Coast;x
 1160;232;125;0;Blenon Way;x
 1161;232;0;40;The Hills of Nolos;x
 1162;232;250;80;Iedrarys;x
 1163;232;60;120;Ruklonos;x
-1164;222;100;100;Klios;x #Not used
+1164;222;100;100;Klios;x
 1165;222;5;0;Molrys;x
 1166;222;200;33;Tikunemio;x
 1167;222;150;66;Port Vaedar;x
 1168;222;3;40;Lentun;x
 1169;222;99;80;Raqiros;x
 1170;222;160;120;Kastaryia;x
-1171;212;249;0;Gelenka Mountains;x
+1171;212;249;0;Gelenka Valleys;x
 1172;200;209;33;Yghos;x
 1173;133;209;66;Otor Lands;x
 1174;66;209;0;Long Summer Way;x
@@ -1186,23 +1186,20 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 1185;101;103;75;Qrimbroz;x
 1186;62;97;98;Fire Road;x
 1187;203;49;151;Izulaperzys;x
-1188;203;2;4;Elieperzys;x
+1188;203;2;4;Elieperzys;x	
 1189;203;48;152;Fire Isle;x
 1190;203;46;67;Vestperzys;x
 1191;203;1;102;Urneb Shore;x
 1192;204;49;51;Nuqiria;x
-1193;204;157;2;Buzdari Valley;x #Not used
-1194;184;49;51;Elinis;x #Not used
+1193;204;157;2;Buzdari Valley;x
+1194;184;49;51;Elinis;x
 1195;204;167;25;Ilvonys;x #END OF RESERVED VALYRIA PROVINCE IDS
 1196;116;145;211;Narrowshade;x
 1197;151;176;153;Iron Holt;x
-1198;124;203;177;;x #Not used
-1199;157;104;223;;x #Not used
 1200;242;188;216;Skane;x
 1201;249;188;216;The Gates of the Moon;x
 1202;210;188;216;The City of Oldtown;x
 1203;190;188;216;City of King's Landing;x
-1204;170;66;22;;x #Not used
 1205;180;188;199;Shield Row;x
 1206;185;188;199;Hangmyre;x
 1207;160;188;199;Grey Garden;x
@@ -1245,4 +1242,38 @@ province;red;green;blue;name;x #name left blank = transparent wasteland
 1244;130;100;170;Holy House;x
 1245;130;20;170;Iron Gate;x
 1246;10;45;170;Sweetmeadow;x
-1247;130;100;2;Glitched;x				 
+1247;250;250;170;Belgrave;x
+1248;250;250;160;Wendwater;x
+1249;250;250;150;Vulture's Spring;x
+1250;250;250;30;Outer Wall;x
+1251;250;250;110;Middle Wall;x
+1252;250;250;220;Innermost Wall;x
+1253;220;250;220;New Gift;x
+1254;170;250;220;Aegon;x
+1255;160;250;220;Visenya;x
+1256;150;250;220;Rhaenys;x
+1257;140;250;220;Goldmeadow;x
+1258;120;10;220;Temple of Pentos;x
+1259;130;10;220;Temple of Myr;x
+1260;140;10;220;Temple of Lys;x
+1261;10;10;220;Pineforest;x
+1262;40;10;220;Strongcliff;x
+1263;80;20;70;Sealion Cove;x
+1264;80;20;65;Dwarfstone;x
+1265;80;20;60;Southstone;x
+1266;80;20;55;Last Lamp;x
+1267;80;20;50;Fishskins;x
+1268;80;20;45;Dim Cove;x
+1269;80;20;40;Harrower Isle;x
+1270;80;20;35;Isle of Fleas;x
+1271;80;20;30;Chain Pits;x
+1272;80;20;25;Basilisk Bone;x
+1273;80;20;20;Isle of Mangroves;x
+1274;80;20;15;Isle of Worms;x
+1275;80;20;10;Isle of Sharks;x
+1276;80;20;5;Isle of Lizards;x
+1277;80;20;0;Venom Rock;x
+1278;80;10;0;Jungle Port;x
+1279;80;10;5;Bitter Water;x
+1280;80;10;10;Sorrow Rock;x
+1281;130;100;2;Glitched;x
