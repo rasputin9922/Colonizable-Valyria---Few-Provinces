@@ -1,0 +1,159 @@
+### Commented out due to performance reasons, re-enable if your computer can handle it
+
+westeros_south_trade_routes = {
+	wealth = 100			# Total base wealth of silk route
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.05
+		city_tax_modifier = 0.05
+		temple_tax_modifier = 0.05
+		trade_route_value = 1
+		icon = 4
+	}
+
+	start = {				# Start provinces of trade route
+		334 # Yronwood
+		304 # Storm's End
+		267 # Highgarden
+	}
+	
+	
+	path = {	#Yronwood - Plankytown
+		334 344 349 350 922
+	}
+	path = {	#Yronwood - Dalston Keep
+		334 330 311 312 293 227
+	}
+	path = {	#Plankytown - Tyrosh
+		922 923 964 367
+	}
+	path = {	#Tyrosh - Myr
+		367 964 965 1001 378
+	}
+	path = {	#Plankytown - Lys
+		922 1003 368
+	}
+	path = {	#Highgarden - Dalston Keep
+		267 256 254 253 255 227
+	}
+	path = {	#Highgarden - Oldtown
+		267 276 275 284 283 286
+	}
+	path = {	#Highgarden - Lannisport
+		267 265 240 235 197 185 183
+	}
+	path = {	#Oldtown - The Arbor
+		286 895 893 292 892
+	}
+	path = {	#The Arbor - Last Lament
+		892 887 1067 1054 493
+	}
+	path = {	#The Arbor - Planky Town
+		892 889 890 922
+	}
+	path = {	#Dalston Keep- King's Landing
+		227 295 1203
+	}
+	path = {	#Storm's End- King's Landing
+		304 299 296 232 1203
+	}
+	path = {
+		1203 226
+	}
+	path = {	#King's Landing - Dragonstone
+		1203 932 931 234 930 220 221
+	}
+	path = {	#Dragonstone - Pentos
+		221 933 968 967 406
+	}
+	path = {	#Dragonstone - Braavos
+		221 933 934 970 971 470
+	}
+}
+westeros_north_trade_routes = {
+	wealth = 100			# Total base wealth of silk route
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.05
+		city_tax_modifier = 0.05
+		temple_tax_modifier = 0.05
+		trade_route_value = 1
+		icon = 4
+	}
+
+	start = {				# Start provinces of trade route
+		47 #Winterfell
+		136 #The Eyrie
+		161 #Lordsport
+	}
+	
+	path = {	#Winterfell - Braavos
+		47 49 57
+	}
+	path = {	
+		57 58 62 944 943 942 878 945 972 971
+	}
+	path = {
+		971 470
+	}
+	path = {	#Winterfell - Lord Harroway's Town
+		57 61 66 70 71 77 78 83 84 108 97
+	}
+	path = {	#Lord Harroway's Town - King's Landing
+		97 107 116 205 209 224 1203
+	}
+	path = {	#Lord Harroway's Town - Maidenpool
+		97 94 109
+	}
+	path = {	#Maidenpool - Eastern Bay of Crabs
+		109 936 935
+	}
+	path = {	#The Eyrie- Gulltown
+		136 1201 125 142 141 149 935
+	}
+	path = {	#The Eyrie- Lord Harroway's Town
+		1201 140 134 95 97
+	}
+	path = {	#Seagard - Lord Harroway's Town
+		79 81 82 92 93 97
+	}
+	path = {
+		79 77 
+	}
+	path = {	#Lordsport - Seagard
+		161 911 912 913 1144 79
+	}
+	path = {	#Lordsport - Lannisport
+		161 904 167 903 900 183
+	}
+	path = {	#Lannisport - Oldtown
+		183 899 262 896 895
+	}
+	path = {	#Lannisport - Lord Harroway's Town
+		183 182 178 176 174 175 102 101 91 96 97
+	}
+	path = {	#Lannisport - King's Landing
+		183 184 1132 191 192 194 202 222 1203
+	}
+	path = {	#Gulltown - Dragonstone
+		935 219 221
+	}
+	path = {
+		1203 226
+	}
+	path = {	#King's Landing - Dragonstone
+		1203 932 931 234 930 220 221
+	}
+	path = {	#Dragonstone - Pentos
+		221 933 968 967 406
+	}
+	path = {	#Dragonstone - Myr
+		221 933 968 966 965 1001 378
+	}
+	path = {	#Myr - Tyrosh
+		378 1001 965 964 367
+	}
+	path = {	#Tyrosh - Lys
+		367 963 1003 368
+	}
+}
