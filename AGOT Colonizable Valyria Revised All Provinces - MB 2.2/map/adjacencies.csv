@@ -133,4 +133,24 @@ From;To;Type;Through;Comment;;;;
 511;510;sea;1068;-1;-1;-1;-1;Singing Stones-Golden Exile
 492;498;sea;1053;-1;-1;-1;-1;Isle of Women-Jalabuxhon
 491;493;sea;1052;-1;-1;-1;-1;last Lament-Stonehead
+1153;1158;sea;1008;-1;-1;-1;-1;Pyrys-Marble
+1184;1153;sea;1007;-1;-1;-1;-1;Egrys-Pyrys
+1185;1163;sea;1011;-1;-1;-1;-1;Qrimbroz-Ruklonos
+755;1192;sea;1007;-1;-1;-1;-1;Gelios-Nuqiria
+755;1156;sea;1008;-1;-1;-1;-1;Gelios-Bane
+1166;1160;sea;1183;-1;-1;-1;-1;Tikunemio-Blenon
+1169;1165;sea;1009;-1;-1;-1;-1;Raqiros-Molrys
+758;1169;sea;1009;-1;-1;-1;-1;Mhysa Faer-Raqiros
+1170;1168;sea;1009;-1;-1;-1;-1;Kastaryia-Lentun
+1189;1195;sea;1008;-1;-1;-1;-1;Fire Isle-Ilvonys
+1188;1156;sea;1008;-1;-1;-1;-1;Elieperzys-Dragonfields
+1186;756;sea;1010;-1;-1;-1;-1;Fire Road-Tyria
+1187;759;sea;1010;-1;-1;-1;-1;Izulaperzys-Oros
+1187;1186;sea;1010;-1;-1;-1;-1;Izulaperzys-Fire Road
+1186;1188;sea;1010;-1;-1;-1;-1;Fire Road-Elieperzys
+1189;1188;sea;1008;-1;-1;-1;-1;Fire Isle-Elieperzys
+#1195;1189;sea;1008;-1;-1;-1;-1;Ilvonys-Qeldperzys
+#1195;1189;sea;1008;-1;-1;-1;-1;Dragonfields-Elieperzys
+#759;1186;sea;1010;-1;-1;-1;-1;Oros-Fire
+#759;1186;sea;1010;-1;-1;-1;-1;Oros-Izulaperzys
 -1;-1;;-1;-1;-1;-1;-1;-1
