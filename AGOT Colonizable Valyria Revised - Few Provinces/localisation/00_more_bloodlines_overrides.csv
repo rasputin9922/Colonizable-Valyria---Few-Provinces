@@ -496,6 +496,8 @@ weeper_bloodline;Blood of the Weeper;;;;;;;;;;;;;x
 vulture_king_mbs_bl;Blood of the Vulture King;;;;;;;;;;;;;x
 black_harren_bl;Blood of Black Harren;;;;;;;;;;;;;x
 sage_kings_bl;Blood of Three Sage Kings;;;;;;;;;;;;;x
+lannister_bastards_bl;Blood of Illborn;;;;;;;;;;;;;x	
+crackbones_bl;Blood of Crackbones;;;;;;;;;;;;;x
 greenhand_desc;A mythical King of the First Men, said to have led them to Westeros. The ancestor of many houses of the Reach he wore a crown of flowers and made the land bloom.;;;;;;;;;;;;;x
 garth_the_gardener_desc;The son of Garth Greenhand and founder of House Gardener, he made his home atop a hill above the River Mander that would become known as Highgarden.;;;;;;;;;;;;;x
 garth_goldenhand_desc;The greatest Gardener King. Known as the Goldenhand, for his deeds both in war and in peace, he ruled for eighty-one years, of which less than ten were spent at war.;;;;;;;;;;;;;x
@@ -635,7 +637,7 @@ night_king_desc;[This.GetTitledFirstNameNoRegnal] has turned to the worship of t
 plowman_desc;Pate the Plowman was the founder of House Moreland and a legendary First Man hero of the Westerlands from the Age of Heroes.;;;;;;;;;;;;;x
 clawisle_desc;An old house with the blood of Valyria in its veins, the Celtigars have a reputation for squeezing wealth from their subjects and have long sought to rule Cracklaw Point.;;;;;;;;;;;;;x
 drop_of_the_dragon_desc;The last dragonlords to survive the doom the Targaryens fled to Dragonstone, and those that bear their blood seem to have an innate connection to dragons.;;;;;;;;;;;;;x
-two_drops_desc;The son of Lord Ossifer and Elaena Targaryen, Viserys Plumm was apparently conceived on their wedding night, for Ossifer died during the bedding, some have other theories¦;;;;;;;;;;;;;x
+two_drops_desc;The son of Lord Ossifer and Elaena Targaryen, Viserys Plumm was apparently conceived on their wedding night, for Ossifer died during the bedding, some have other theoriesÄ¶;;;;;;;;;;;;;x
 plumm_desc;The Plumms are a proud and ancient house of First Men origin, hailing from the Westerlands and are amongst the Lannisters' most powerful vassals.;;;;;;;;;;;;;x
 lord_of_tides_desc;The Velaryons of Driftmark are an ancient house from Valyrian. They have long controlled the entrance to Blackwater Bay from the Oakenseat and often married the Targaryens.;;;;;;;;;;;;;x
 lothston_desc;The sixth house to rule the great castle of Harrenhal, House Lothson are one of the most powerful houses in the Riverlands, and have a reputation for dark deeds.;;;;;;;;;;;;;x
@@ -1013,46 +1015,46 @@ CASTELLAN_MBS_female;Castellan;;;;;;;;;;;;;x
 CASTELLAN_MBS_FOA_female;Castellan;;;;;;;;;;;;;x
 
 
-bloodline_effect_tall;Characters tend to be §Gtall§!;;;;;;;;;x
-bloodline_effect_mystic;Characters can become §Gmystics§!;;;;;;;;;x
-bloodline_effect_hunter;Characters can become §Ghunters§!;;;;;;;;;x
-bloodline_effect_crane;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_cruel;Characters can become §Gcruel§!;;;;;;;;;x
-bloodline_effect_brave;Characters tend to be §Gbrave§!;;;;;;;;;x
-bloodline_effect_falconer;Characters can become §Gfalconers§!;;;;;;;;;x
-bloodline_effect_vulture;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_lusty;Characters tend to be §Glusty§!;;;;;;;;;x
-bloodline_effect_blackwood;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_greensight;Characters can become §Ggreenseers§!;;;;;;;;;x
-bloodline_effect_wroth;Characters can become §Gwrothful§!;;;;;;;;;x
-bloodline_effect_fair;Characters tend to be §Gfair§!;;;;;;;;;x
-bloodline_effect_liberator;Characters can become §Gliberators§!;;;;;;;;;x
-bloodline_effect_direwolf;Characters have a chance to obtain a §Gdirewolf§!;;;;;;;;;x
-bloodline_effect_wolf;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_strategist;Characters can become §Gstrategists§!;;;;;;;;;x
-bloodline_effect_impaler;Characters tend to be §Gtorturers§!;;;;;;;;;x
-bloodline_effect_justice;Characters tend to be §Gjust§!;;;;;;;;;x
-bloodline_effect_strong;Characters tend to be §Gstrong§!;;;;;;;;;x
-bloodline_effect_zealous;Characters tend to be §Gzealous§!;;;;;;;;;x
-bloodline_effect_mormont;Characters can become §Gskinchangers§!;;;;;;;;;x
+bloodline_effect_tall;Characters tend to be ßGtallß!;;;;;;;;;x
+bloodline_effect_mystic;Characters can become ßGmysticsß!;;;;;;;;;x
+bloodline_effect_hunter;Characters can become ßGhuntersß!;;;;;;;;;x
+bloodline_effect_crane;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_cruel;Characters can become ßGcruelß!;;;;;;;;;x
+bloodline_effect_brave;Characters tend to be ßGbraveß!;;;;;;;;;x
+bloodline_effect_falconer;Characters can become ßGfalconersß!;;;;;;;;;x
+bloodline_effect_vulture;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_lusty;Characters tend to be ßGlustyß!;;;;;;;;;x
+bloodline_effect_blackwood;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_greensight;Characters can become ßGgreenseersß!;;;;;;;;;x
+bloodline_effect_wroth;Characters can become ßGwrothfulß!;;;;;;;;;x
+bloodline_effect_fair;Characters tend to be ßGfairß!;;;;;;;;;x
+bloodline_effect_liberator;Characters can become ßGliberatorsß!;;;;;;;;;x
+bloodline_effect_direwolf;Characters have a chance to obtain a ßGdirewolfß!;;;;;;;;;x
+bloodline_effect_wolf;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_strategist;Characters can become ßGstrategistsß!;;;;;;;;;x
+bloodline_effect_impaler;Characters tend to be ßGtorturersß!;;;;;;;;;x
+bloodline_effect_justice;Characters tend to be ßGjustß!;;;;;;;;;x
+bloodline_effect_strong;Characters tend to be ßGstrongß!;;;;;;;;;x
+bloodline_effect_zealous;Characters tend to be ßGzealousß!;;;;;;;;;x
+bloodline_effect_mormont;Characters can become ßGskinchangersß!;;;;;;;;;x
 bloodline_effect_tully;Family, Duty, Honour.;;;;;;;;;x
-bloodline_effect_craven;Characters tend to be §Gcraven§!;;;;;;;;;x
-bloodline_effect_reed;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_lion;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_paranoid;Characters tend to be a little §Gparanoid§!;;;;;;;;;x
-bloodline_effect_brawny;Characters tend to be §Grobust§!;;;;;;;;;x
-bloodline_effect_poet;Characters tend to be §Gpoets§!;;;;;;;;;x
-bloodline_effect_cannibal;Characters can become §Gcannibals§!;;;;;;;;;x
-bloodline_effect_bat;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_great_warg;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_great_bat;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_lunatic;Characters often become  §Gmad§!;;;;;;;;;x
+bloodline_effect_craven;Characters tend to be ßGcravenß!;;;;;;;;;x
+bloodline_effect_reed;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_lion;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_paranoid;Characters tend to be a little ßGparanoidß!;;;;;;;;;x
+bloodline_effect_brawny;Characters tend to be ßGrobustß!;;;;;;;;;x
+bloodline_effect_poet;Characters tend to be ßGpoetsß!;;;;;;;;;x
+bloodline_effect_cannibal;Characters can become ßGcannibalsß!;;;;;;;;;x
+bloodline_effect_bat;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_great_warg;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_great_bat;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_lunatic;Characters often become ßGmadß!;;;;;;;;;x
 bloodline_effect_tormund;Tormund has a very interesting story involving a bear...;;;;;;;;;x
-bloodline_effect_winged_wolf;Characters have a natural aptitude for §Gskinchanging§!;;;;;;;;;x
-bloodline_effect_proud;Characters tend to be §Gproud§!;;;;;;;;;x
-bloodline_effect_celibate;Characters tend to take vows of §Gcelibacy§!;;;;;;;;;x
-bloodline_effect_gardeners;Characters tend to be §Ggardeners§!;;;;;;;;;x
-bloodline_effect_hunchback;Characters tend to be §Ghunchbacked§!;;;;;;;;;x
+bloodline_effect_winged_wolf;Characters have a natural aptitude for ßGskinchangingß!;;;;;;;;;x
+bloodline_effect_proud;Characters tend to be ßGproudß!;;;;;;;;;x
+bloodline_effect_celibate;Characters tend to take vows of ßGcelibacyß!;;;;;;;;;x
+bloodline_effect_gardeners;Characters tend to be ßGgardenersß!;;;;;;;;;x
+bloodline_effect_hunchback;Characters tend to be ßGhunchbackedß!;;;;;;;;;x
 bloodline_effect_longspoon;Characters can sometimes consume the brains of others for learning and intrigue.;;;;;;;;;x
 bloodline_effect_sons;Characters can find it difficult to produce a male heir.;;;;;;;;;x
 bloodline_effect_eunuch;Upon ascending to the throne character are expected to castrate themselves.;;;;;;;;;x
@@ -1061,20 +1063,19 @@ bloodline_effect_scion;Characters can peacefully settle nomadic tribes, colonisi
 bloodline_effect_shield;Characters can lay claim to the Shadowlands.;;;;;;;;;x
 bloodline_effect_peasant;Characters can build unique buildings to improve conditions for the peasantry.;;;;;;;;;x
 bloodline_effect_diplomat;Characters can send imperial delegations to foreign courts.;;;;;;;;;x
-bloodline_effect_charitable;Characters tend to be §Gcharitable§!;;;;;;;;;x
+bloodline_effect_charitable;Characters tend to be ßGcharitableß!;;;;;;;;;x
 bloodline_effect_bureaucrat;Characters can build unique buildings to educate their subjects and recruit imperial officials.;;;;;;;;;x
 bloodline_effect_living_god;Characters can remind their subjects of their divine status.;;;;;;;;;x
-bloodline_effect_whale;Characters have a mystical connection to the sea and can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_duelist;Characters can become §Gduelists§!;;;;;;;;;x
-bloodline_effect_honourable;Characters tend to be §Ghonourable§!;;;;;;;;;x
-bloodline_effect_dog;Characters can become §Gskinchangers§!;;;;;;;;;x
-bloodline_effect_mariner;Characters are often skilled §Gmariners§!;;;;;;;;;x
-bloodline_effect_familyperson;Characters tend to find strength in §Gfamily§!;;;;;;;;;x
+bloodline_effect_whale;Characters have a mystical connection to the sea and can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_duelist;Characters can become ßGduelistsß!;;;;;;;;;x
+bloodline_effect_honourable;Characters tend to be ßGhonourableß!;;;;;;;;;x
+bloodline_effect_dog;Characters can become ßGskinchangersß!;;;;;;;;;x
+bloodline_effect_mariner;Characters are often skilled ßGmarinersß!;;;;;;;;;x
+bloodline_effect_familyperson;Characters tend to find strength in ßGfamilyß!;;;;;;;;;x
 
 
 
-
-the_seven_DESC;The traditional religion of the Andals. The Seven is a single god with seven aspects - the Father, the Mother, the Warrior, the Maiden, the Smith, the Crone,and the Stranger - but is usually worshiped as thought it were seven seperate gods. Priests of the Seven are called Septons or Septas, and the gods are worshiped in seven-sided temples, called Septs. Zealous worshippers of the Seven can choose to venerate one aspect above all others.;La religion traditionnelle des Andals. Les Sept ne sont que les sept aspects d'une unique divinité -le Père, la Mère, le Guerrier, la Jouvencelle, le Ferrant, l'Aïeule et l'Etranger- mais la plupart des croyants les voient comme sept dieux différents. Les prêtres des Sept sont appellés septons ou septas, et les dieux sont honorés dans des temples à sept façades que l'on appelle des septuaires. ;;;La religión tradicional de los ándalos. Los Siete es un dios único con siete aspectos - el padre, la madre, el guerrero, la doncella, el herrero, la vieja, y el desconocido - pero por lo general es adorado como siete dioses diferentes. Los sacerdotes de los Siete se llaman septones o septas, y los dioses son adorados en templos heptagonales, llamados Septos.;;;;;;;;;x
+the_seven_DESC;The traditional religion of the Andals. The Seven is a single god with seven aspects - the Father, the Mother, the Warrior, the Maiden, the Smith, the Crone,and the Stranger - but is usually worshiped as thought it were seven seperate gods. Priests of the Seven are called Septons or Septas, and the gods are worshiped in seven-sided temples, called Septs. Zealous worshippers of the Seven can choose to venerate one aspect above all others.;La religion traditionnelle des Andals. Les Sept ne sont que les sept aspects d'une unique divinitÈ -le PËre, la MËre, le Guerrier, la Jouvencelle, le Ferrant, l'AÔeule et l'Etranger- mais la plupart des croyants les voient comme sept dieux diffÈrents. Les prÍtres des Sept sont appellÈs septons ou septas, et les dieux sont honorÈs dans des temples ‡ sept faÁades que l'on appelle des septuaires. ;;;La religiÛn tradicional de los ·ndalos. Los Siete es un dios ˙nico con siete aspectos - el padre, la madre, el guerrero, la doncella, el herrero, la vieja, y el desconocido - pero por lo general es adorado como siete dioses diferentes. Los sacerdotes de los Siete se llaman septones o septas, y los dioses son adorados en templos heptagonales, llamados Septos.;;;;;;;;;x
 
 
 EVTDESCfuneral_winterfell.7;Packs upon packs of people, peasant and noble alike, gather in the courtyard of the First Keep of Winterfell, and surrounding lichyards to catch a glimpse of the deceased. As the procession leads the body of [funeral_target.GetTitledFirstName] through the crowded streets to the entrance of the ancient Crypt of Winterfell, where the Kings of Winterfell sleep, the populace wails its mourn and sorrow as the dead passes by. The leading train stops at the ironwood gates leading below. The surrounding crowd grows silent, all that is heard are the odd whisper or child's question as the pallbearers, the dead's kin and closest friends continue on, alone. Through the dark halls, they carry the lost, finally reaching the alcove and laying the body to rest below it's stone effigy, where each, in turn, bid their individual farewells. The last to leave reverently places an iron longsword across the lap of the statue and places a hand on the carved stone direwolf for a moment before turning and leaving the dead to their eternal rest.;;;;;;;;;;;;;x
