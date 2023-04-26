@@ -36,7 +36,8 @@ samwell_dayne;Blood of the Starfire;;;;;;;;;;;;;x
 the_wyl;Wyl Blood;;;;;;;;;;;;;x
 benedict_blackmont;Blood of Benedict Blackmont;;;;;;;;;;;;;x
 manwoody;Manwoody Blood;;;;;;;;;;;;;x
-qorgyle;Qorgyle Blood;;;;;;;;;;;;;x
+qorgyle;Blood of the Black Scorpion;;;;;;;;;;;;;x
+qorgyle_bl;Qorgyle Blood;;;;;;;;;;;;;x
 uller;Blood of the Dragonslaying Ullers;;;;;;;;;;;;;x
 uller_a;Uller Blood;;;;;;;;;;;;;x
 aegon_the_conqueror;Blood of the Conqueror;;;;;;;;;;;;;x
@@ -93,7 +94,7 @@ durran_godsgrief;Blood of Durran Godsgrief;;;;;;;;;;;;;x
 orys_baratheon;Blood of Orys Baratheon;;;;;;;;;;;;;x
 galladon_of_morne;Blood of Ser Galladon of Morne;;;;;;;;;;;;;x
 swann;Swann Blood;;;;;;;;;;;;;x
-lightning_lords;Blood of the Lightning Lords;;;;;;;;;;;;;x
+lightning_lords;Blood of Blackhaven;;;;;;;;;;;;;x
 lord_of_the_marches;Blood of the Lord of the Marches;;;;;;;;;;;;;x
 renly_baratheon;Blood of King Renly Baratheon;;;;;;;;;;;;;x
 grey_king;Blood of the Grey King;;;;;;;;;;;;;x
@@ -140,6 +141,7 @@ clawisle;Red Crab Blood;;;;;;;;;;;;;x
 drop_of_the_dragon;A Drop of Dragon Blood;;;;;;;;;;;;;x
 plumm;Blood of House Plumm;;;;;;;;;;;;;x
 oakenfist;Blood of the Oakenfist;;;;;;;;;;;;x
+addam_velaryon;Blood of Addam Velaryon the Loyal;;;;;;;;;;;;x
 lord_of_tides;Blood of the Lords of the Tides;;;;;;;;;;;;;x
 two_drops;A Second Drop of Dragon Blood;;;;;;;;;;;;;x
 lothston;Lothston Blood;;;;;;;;;;;;;x
@@ -266,10 +268,11 @@ ryam_redwyne_bloodline;Blood of Ser Ryam Redwyne;;;;;;;;;;;;;x
 breakspear_mbs;Blood of the Breakspear;;;;;;;;;;;;;x
 sword_morning_mbs;Blood of the Swords of Morning;;;;;;;;;;;;;x
 tourney_champ_mbs;Blood of the Tourney Knight;;;;;;;;;;;;;x
-melee_champ_mbs;Blood of the Beast of the MÍlÈe;;;;;;;;;;;;;x
+melee_champ_mbs;Blood of the Beast of the M√™l√©e;;;;;;;;;;;;;x
 basilisk_bl;Blood of the Basilisk;;;;;;;;;;;;;x
 chimera_bl;Blood of the Chimera;;;;;;;;;;;;;x
 sphinx_bl;Blood of the Sphinx;;;;;;;;;;;;;x
+behemoth_bl;Blood of the Behemoth;;;;;;;;;;;;;x
 shett_bl;Blood of the Kings of the True Men;;;;;;;;;;;;;x
 axel_tully;Blood of Riverrun;;;;;;;;;;;;;x
 hodor_mbs;Blood of Hodor;;;;;;;;;;;;;x
@@ -424,6 +427,75 @@ bloodline_viserys_iii;Blood of the Awoken Dragon;;;;;;;;;;;;;x
 bloodline_artos_stark;Blood of Artos the Implacable;;;;;;;;;;;;;x
 bloodline_roger_reyne;Blood of Roger the Red Lion;;;;;;;;;;;;;x
 bloodline_robb_reyne;Blood of Robb Reyne;;;;;;;;;;;;;x
+bloodline_alyssa_velaryon;Blood of Alyssa Velaryon;;;;;;;;;;;;;x
+bloodline_strong_boys;Blood of the Strong Boys;;;;;;;;;;;;;x
+bloodline_thoros;Blood of the Red Wizard;;;;;;;;;;;;;x
+bloodline_melisandre;Blood of the Red Shadow;;;;;;;;;;;;;x
+bloodline_beric;Blood of the Lightning Lord;;;;;;;;;;;;;x
+bloodline_belicho;Blood of the Triarch Belicho;;;;;;;;;;;;;x
+bloodline_vhalaso_the_munificent;Blood of Vhalaso the Munificent;;;;;;;;;;;;;x
+bloodline_widow_of_the_waterfront;Blood of the Widow of the Waterfront;;;;;;;;;;;;;x
+fisher;Fisher Bloodline;;;;Linaje Fisher;;;;;;;;;x
+bloodline_teague;Blood of King Torrence Teague;;;;;;;;;;;;;x
+bloodline_justman;Blood of King Benedict the Just;;;;;;;;;;;;;x
+bloodline_fisher;Blood of the Fisher Kings;;;;;;;;;;;;;x
+bloodline_alester_sarwyck;Blood of the Red Priest of Riverspring;;;;;;;;;;;;;x
+bloodline_aegon_uncrowned;Blood of Aegon, the Rightful King;;;;;;;;;;;;;x
+bloodline_euron;Blood of Euron Crow's Eye;;;;;;;;;;;;;x
+bloodline_euron_king;Blood of Godly King Euron;;;;;;;;;;;;;x
+mbs_manylegitchildren_man;Blood of [This.GetTitledFirstName], The Prolific;;;;;;;;;;;;;x
+mbs_manylegitchildren_woman;Blood of [This.GetTitledFirstName], The Prolific;;;;;;;;;;;;;x
+mbs_manybastardchildren_man;Blood of [This.GetTitledFirstName], The Unfaithful;;;;;;;;;;;;;x
+mbs_manybastardchildren_woman;Blood of [This.GetTitledFirstName], The Unfaithful;;;;;;;;;;;;;x
+walder_frey_prw;Blood of Lord Walder Frey;;;;;;;;;;;;;x
+ygon_oldfather;Blood of The Oldfather;;;;;;;;;;;;;x
+mbs_bl_ironthrone;Blood of [This.GetTitledFirstNameWithNickAndDynasty];;;;;;;;;;;;;x
+bloodline_ellyn_reyne;Blood of Ellyn the Red;;;;;;;;;;;;;x
+bloodline_ashara_dayne;Blood the Maid with Laughing Purple Eyes;;;;;;;;;;;;;x
+pirate_trader;Blood of [This.GetTitledFirstName] the Trader;;;;;;;;;;;;;x
+pirate_reaver;Blood of [This.GetTitledFirstName] the Reaver;;;;;;;;;;;;;x
+pirate_westerosi;Blood of [This.GetTitledFirstName] the Andal;;;;;;;;;;;;;x
+pirate_freecities;Blood of [This.GetTitledFirstName] the Valyrian;;;;;;;;;;;;;x
+pirate_slaver;Blood of [This.GetTitledFirstName] the Slaver;;;;;;;;;;;;;x
+pirate_liberator;Blood of [This.GetTitledFirstName] the Liberator;;;;;;;;;;;;;x
+bloody_ben_blackwood;Blood of Bloody Ben Blackwood;;;;;;;;;;;;;x
+brute_bracken;Blood of The Brute of Bracken;;;;;;;;;;;;;x
+bloodline_joff_lydden;Blood of King Joffrey Lydden;;;;;;;;;;;;;x
+bloodline_rego_draz;Blood of The Lord of Air;;;;;;;;;;;;;x
+bloodline_nevio_narratys;Blood of Prince Nevio Narratys;;;;;;;;;;;;;x
+bloodline_tattered_prince;Blood of The Tattered Prince;;;;;;;;;;;;;x
+bloodline_tyanna_of_tower;Blood of Tyanna of the Tower;;;;;;;;;;;;;x
+bloodline_janos_slynt;Blood of Janos Slynt;;;;;;;;;;;;;x
+bloodline_philip_foote;Blood of Philip Foote, Lord of the Marches;;;;;;;;;;;;;x
+bloodline_appleater_brune;Blood of Ser Lothor, the Apple-Eater;;;;;;;;;;;;;x
+bloodline_nutt;Blood of Queen Jeyne Nutt, the Bold;;;;;;;;;;;;;x
+bloodline_harte;Blood of Lord Harys Harte, the Defiant;;;;;;;;;;;;;x
+bloodline_cassel;Blood of House Cassel;;;;;;;;;;;;;x
+bloodline_theon_balon;Blood of Theon Turncloak;;;;;;;;;;;;;x
+bloodline_theon_robb;Blood of Theon, the Greenlander Kraken;;;;;;;;;;;;;x
+bloodline_theon_robb_king;Blood of Theon, the Icy Kraken;;;;;;;;;;;;;x
+bloodline_dragon_big;Blood of The Mighty [This.GetFirstName];;;;;;;;;;;;;x
+bloodline_dragon_old;Blood of The Venerable [This.GetFirstName];;;;;;;;;;;;;x
+bloodline_dragon_fair;Blood of The Glorious [This.GetFirstName];;;;;;;;;;;;;x
+bloodline_dragon_fertile;Blood of The Fertile [This.GetFirstName];;;;;;;;;;;;;x
+bloodline_dragon_untamed;Blood of The Untamable [This.GetFirstName];;;;;;;;;;;;;x
+bloodline_dragon_cunning;Blood of The Cunning [This.GetFirstName];;;;;;;;;;;;;x
+bloodline_dragon_balerion;Blood of Balerion the Black Dread;;;;;;;;;;;;;x
+cleon_the_butcher_bl_mbs;Blood of Cleon the Butcher King;;;;;;;;;;;;;x
+davos_dragonslayer;Blood of Davos the Dragonslayer;;;;;;;;;;;;;x
+aemond_one_eye_bl;Blood of Aemond One-Eye;;;;;;;;;;;;;x
+rhaenyra_black_win_bl;Blood of Rhaenyra the Black Queen;;;;;;;;;;;;;x
+aegon_green_win_bl;Blood of Aegon, the Rightful King;;;;;;;;;;;;;x
+bloodline_golden_company;Blood of [This.GetFirstName] the Captain General;;;;;;;;;;;;;x
+bloodline_locke;Blood of House Locke;;;;;;;;;;;;;x
+bloodline_slate;Blood of House Slate;;;;;;;;;;;;;x
+clubfoot_bloodline;Blood of Larys Clubfoot;;;;;;;;;;;;;x
+rogueprince_bloodline;Blood of the Rogue Prince;;;;;;;;;;;;;x
+florian_bloodline;Blood of Florian the Fool;;;;;;;;;;;;;x
+weeper_bloodline;Blood of the Weeper;;;;;;;;;;;;;x
+vulture_king_mbs_bl;Blood of the Vulture King;;;;;;;;;;;;;x
+black_harren_bl;Blood of Black Harren;;;;;;;;;;;;;x
+sage_kings_bl;Blood of Three Sage Kings;;;;;;;;;;;;;x
 greenhand_desc;A mythical King of the First Men, said to have led them to Westeros. The ancestor of many houses of the Reach he wore a crown of flowers and made the land bloom.;;;;;;;;;;;;;x
 garth_the_gardener_desc;The son of Garth Greenhand and founder of House Gardener, he made his home atop a hill above the River Mander that would become known as Highgarden.;;;;;;;;;;;;;x
 garth_goldenhand_desc;The greatest Gardener King. Known as the Goldenhand, for his deeds both in war and in peace, he ruled for eighty-one years, of which less than ten were spent at war.;;;;;;;;;;;;;x
@@ -455,25 +527,26 @@ aubrey_crakehall_desc;After commanding the armies of the Rock in a victorious se
 nymeria_desc;The warrior queen of the Rhoynar, Nymeria led her people to Dorne and married Lord Mors Martell with whom she united Dorne, sending six defeated kings to the Wall.;;;;;;;;;;;;;x
 meria_desc;Nicknamed the Yellow Toad of Dorne, Princess Meria led her people in the guerilla campaigns of the Conquest and First War of Dorne, holding back Aegon's armies and dragons.;;;;;;;;;;;;;x
 yronwood_desc;An ancient house, the Yronwoods guard the Boneway and long claimed the title of High Kings of Dorne. Though defeated by the Martells they retain the title Bloodroyal.;;;;;;;;;;;;;x
-fowler_desc;An ancient house the Fowlers guard the Prince's Pass and ruled as  Kings of Stone and Sky. Now defeated by the Martells they remain one of the most powerful Dornish Houses.;;;;;;;;;;;;;x
+fowler_desc;An ancient house the Fowlers guard the Prince's Pass and ruled as Kings of Stone and Sky. Now defeated by the Martells they remain one of the most powerful Dornish Houses.;;;;;;;;;;;;;x
 samwell_dayne_desc;Known as the Starfire, King Samwell Dayne of the Torrentine sacked and burned Oldtown in a daring attack on the Reach.;;;;;;;;;;;;;x
 the_wyl_desc;A powerful House from Dorne, the Wyls have a long tradition of fighting against the Dornish marches and during the First Dornish War Lord Wyl committed many attrocities.;;;;;;;;;;;;;x
 benedict_blackmont_desc;Said to worship a dark god and possessing the ability to transform himself into a giant vulture, Benedict Blackmont was a powerful King in the Dornish Mountains.;;;;;;;;;;;;;x
 manwoody_desc;A powerful house from the North of Dorne, House Manwoody was founded after its founder slew a King of the Reach at Kingsgrave, later ruling as King of the Red Mountains.;;;;;;;;;;;;;x
-qorgyle_desc;A powerful Dornish house, Lord Qorgyle is rumoured to have arranged the assassination of Lord Lyonel Tyrell, governor of Dorne, using  venomous scorpions.;;;;;;;;;;;;;x
+qorgyle_desc;A powerful Dornish house, Lord Qorgyle is rumoured to have arranged the assassination of Lord Lyonel Tyrell, governor of Dorne, using venomous scorpions.;;;;;;;;;;;;;x
+qorgyle_bl_desc;The Qorgyles were adventuring Andals who established their domains in the unexplored Dornish deserts, settling in the deep dunes and sands of Dorne, fortifying the only well for fifty leagues around. They have a reputation for scheming and have been known to use the scorpions of their sigil in assassinations.;;;;;;;;;;;;;x
 uller_desc;A powerful Dornish house, House Uller are considered impulsive and unpredictable but loyal vassals to the Martells. In the First Dornish War they killed the dragon Meraxes.;;;;;;;;;;;;;x
 uller_a_desc;A powerful Dornish house, founded by Andal adventurers. Their castle is named after an event in which rivals were invited to the castle, locked within, and burned to death.;;;;;;;;;;;;;x
 aegon_the_conqueror_desc;Rider of the great Dragon Balerion, Aegon conquered Westeros, becoming first Lord of the Seven Kingdoms and became known as 'the Conqueror'.;;;;;;;;;;;;;x
 aegon_the_reclaimer_desc;Rider of the great Dragon Balerion, Aegon conquered the Free Cities and restoring the Freehold of Valyria, that had been destroyed in the Doom, becoming the first true Emperor of Valyria.;;;;;;;;;;;;;x
 the_conciliator_desc;Ruling with his siter-wife Alysanne, Jaehaerys was a wise king, known for abolishing first night, building the Kingsroad, and for fostering peace throughout Westeros.;;;;;;;;;;;;;x
 daemon_blackfyre_desc;The son of Aegon IV and Daena the Defiant, Daemon was a great warrior, and the greatest of the Great Bastards. Founder of House Blackfyre, some view him as the true heir.;;;;;;;;;;;;;x
-mad_king_desc;At the start of his reign, Aerys II showed  promise, but later descended into insanity, becoming known for his paranoia and cruelty, and an  obsession with fire.;;;;;;;;;;;;;x
+mad_king_desc;At the start of his reign, Aerys II showed promise, but later descended into insanity, becoming known for his paranoia and cruelty, and an obsession with fire.;;;;;;;;;;;;;x
 the_sea_snake_desc;A renowned seafarer and Lord of Driftmark, Corlys Velaryon led many voyages to distant lands gaining wealth and prestige, becoming one of the most powerful men in Westeros.;;;;;;;;;;;;;x
 robert_baratheon_desc;King Robert Baratheon led the successful uprising against the Mad King, slaying Prince Rhaegar at the Trident. A skilled warrior he inspired loyalty in those serving him.;;;;;;;;;;;;;x
 the_shadow_king_desc;Descended from the ancient First Men Kings of Blackwater Bay, known as the Shadow Kings, House Darklyn rules Duskendale, a major trade port in the Narrow Sea.;;;;;;;;;;;;;x
 bloodraven_desc;One of the Great Bastards and son of Missy Blackwood, Brynden Rivers earned his nickname from a birthmark. Skilled with bow and blade Brynden was rumored to be a sorcerer.;;;;;;;;;;;;;x
 bittersteel_desc;One of the Great Bastards and son of Barba Bracken, Aegor Rivers was a renowned warrior. Aegor was angry all of his life and loathed his younger brother Bloodraven.;;;;;;;;;;;;;x
-seastar_desc;One of the Great Bastards and daughter of  Serenei of Lys, Shiera Seastar was said to be the most beautiful woman in Westeros and was said to use magic to maintain it.;;;;;;;;;;;;;x
+seastar_desc;One of the Great Bastards and daughter of Serenei of Lys, Shiera Seastar was said to be the most beautiful woman in Westeros and was said to use magic to maintain it.;;;;;;;;;;;;;x
 maegor_desc;Son of Aegon the Conqueror and Queen Visenya, Maegor was a born warrior, but he quickly acquired a reputation for anger, violence and cruelty, desiring power above all.;;;;;;;;;;;;;x
 mother_of_dragons_desc;An exiled Targaryen Princess, Daenerys Targaryen brought Dragons back into the world, hatching three on her husband's funeral pyre in the middle of the Dothraki Sea.;;;;;;;;;;;;;x
 bran_the_builder_desc;The mythical founder of House Stark, said to have communed with Giants and Children of the Forest, and to have built Winterfell, the Wall, the Hightower, and Storm's End.;;;;;;;;;;;;;x
@@ -490,7 +563,7 @@ first_king_desc;The legendary First King of the First Men, the First King is sai
 ryder_desc;The Ryders were First Men kings after the Long Night who ruled over the Rills and were eventually defeated and reduced to vassals by the Kings of Winter.;;;;;;;;;;;;;x
 manderly_desc;An ancient line who once lived by the Mander, they were driven out by the Peakes and sought refuge in the North as vassals of House Stark, establishing White Harbour.;;;;;;;;;;;;;x
 the_marsh_king_desc;The rulers of the Crannogmen of the Neck, the Marsh Kings were often thought to be touched by the old gods. Songs claim the Marsh Kings rode lizard-lions into battle.;;;;;;;;;;;;;x
-bear_island_desc;An old house with a proud reputation. A Stark king gave Bear Isle to the Mormonts after winning it by wrestling an Ironborn King  and they face frequent Wildling raids.;;;;;;;;;;;;;x
+bear_island_desc;An old house with a proud reputation. A Stark king gave Bear Isle to the Mormonts after winning it by wrestling an Ironborn King and they face frequent Wildling raids.;;;;;;;;;;;;;x
 hammer_of_justice_desc;The last truly great First Man king of the Riverlands, Tristifer is said to have fought one hundred battles, losing only one, taking seven Andal kings to defeat him.;;;;;;;;;;;;;x
 bracken_bl_desc;An ancient house the Brackens are one of the most powerful houses in the Riverlands and sometimes ruled as kings, they are often at odds with their Blackwood neighbours.;;;;;;;;;;;;;x
 blackwood_bl_desc;Originally from the Wolfswood, the Blackwoods are one of the most powerful houses in the Riverlands and sometimes ruled as kings, they are often at odds with the Brackens.;;;;;;;;;;;;;x
@@ -502,7 +575,7 @@ black_aly_desc;Aunt of Lord Benjicot, Black Aly Blackwood was a noted commander 
 artos_arryn_desc;Known as the Falcon Knight, Artos Arryn led the victorious Andals against the First Men at the Battle of the Seven Stars and was proclaimed the King of Mountain and Vale.;;;;;;;;;;;;;x
 robar_royce_desc;The greatest Bronze King, Robar was proclaimed High King of the Vale, the Fingers and the Mountains of the Moon, and almost succeeded in driving the Andals from the Vale.;;;;;;;;;;;;;x
 the_talon_desc;Known as the Talon, Oswin Arryn was a warrior King of Mountain and Vale who fought the Starks in the War Across the Water, capturing and burning the Wolf's Den.;;;;;;;;;;;;;x
-littlefinger_desc;Origninally the smallest of small lords, Petyr Baelish was fiercly intelligent and used his cunning to become one of the richest and most powerful men in Westeros.;;;;;;;;;;;;;x
+littlefinger_desc;Originally the smallest of small lords, Petyr Baelish was fiercely intelligent and used his cunning to become one of the richest and most powerful men in Westeros.;;;;;;;;;;;;;x
 jaime_corbray_desc;A famous Andal knight who fought in the Battle of the Seven Stars, Ser Jaime Corbray is believe by some to have slain King Robar Royce, reclaiming Lady Forlorn.;;;;;;;;;;;;;x
 gerold_grafton_desc;An Andal warlord, Gerold Grafton proclaimed himself King of Gulltown after the death of the Shett King who had invited him to Andalos and given him a daughter to marry.;;;;;;;;;;;;;x
 redfort_desc;One of the most powerful and ancient houses in the Vale, the Redforts are descended from the First Men. At the Battle of the Seven Stars Torgold the Grim slew Lord Redfort.;;;;;;;;;;;;;x
@@ -548,7 +621,7 @@ poetess_desc;A line of Braavosi courtesans. They always have a book to hand and 
 red_viper_desc;The second son of the Princess of Dorne, Oberyn Martell was a renowned warrior with a reputation for cunning and skilled with poison, and was known as the Red Viper of Dorne.;;;;;;;;;;;;;x
 tywin_desc;Whilst heir to Casterly Rock Tywin Lannister successfully destroyed Houses Tarbeck and Reyne, two of his father's most unruly vassals, gaining considerable fame in the process.;;;;;;;;;;;;;x
 bar_emmon_desc;An Andal warlord who married the daughter of Josua Massey and established a new kingdom on Massey's Hook. He built the castle of Sharp Point at the Hook's end.;;;;;;;;;;;;;x
-massey_desc;An infamous pirate king, Justin Milk-Eye ruled over Massey's Hook and fought against Storm King  Erich VII Durrandon who sought to conquer the peninsula.;;;;;;;;;;;;;x
+massey_desc;An infamous pirate king, Justin Milk-Eye ruled over Massey's Hook and fought against Storm King Erich VII Durrandon who sought to conquer the peninsula.;;;;;;;;;;;;;x
 darry_desc;An ancient House from the Age of the First Men. During the Andal invasion, three Darrys held back the Andals of Vorian Vypren at the Widow's Ford before being slain.;;;;;;;;;;;;;x
 hornwood_desc;An ancient and powerful Northern House, the Hornwoods have ruled the forest that bears their name since time immemorial, serving House Stark as loyal vassals.;;;;;;;;;;;;;x
 glover_desc;Once ruling as petty kings of the First Men, the Glovers are amongst the North's most powerful houses, ruling over the vast Wolfswood as Masters of Deepwood Motte.;;;;;;;;;;;;;x
@@ -562,7 +635,7 @@ night_king_desc;[This.GetTitledFirstNameNoRegnal] has turned to the worship of t
 plowman_desc;Pate the Plowman was the founder of House Moreland and a legendary First Man hero of the Westerlands from the Age of Heroes.;;;;;;;;;;;;;x
 clawisle_desc;An old house with the blood of Valyria in its veins, the Celtigars have a reputation for squeezing wealth from their subjects and have long sought to rule Cracklaw Point.;;;;;;;;;;;;;x
 drop_of_the_dragon_desc;The last dragonlords to survive the doom the Targaryens fled to Dragonstone, and those that bear their blood seem to have an innate connection to dragons.;;;;;;;;;;;;;x
-two_drops_desc;The son of Lord Ossifer and Elaena Targaryen, Viserys Plumm was apparently conceived on their wedding night, for Ossifer died during the bedding, some have other theoriesÄ¶;;;;;;;;;;;;;x
+two_drops_desc;The son of Lord Ossifer and Elaena Targaryen, Viserys Plumm was apparently conceived on their wedding night, for Ossifer died during the bedding, some have other theories¬Ä¬¶;;;;;;;;;;;;;x
 plumm_desc;The Plumms are a proud and ancient house of First Men origin, hailing from the Westerlands and are amongst the Lannisters' most powerful vassals.;;;;;;;;;;;;;x
 lord_of_tides_desc;The Velaryons of Driftmark are an ancient house from Valyrian. They have long controlled the entrance to Blackwater Bay from the Oakenseat and often married the Targaryens.;;;;;;;;;;;;;x
 lothston_desc;The sixth house to rule the great castle of Harrenhal, House Lothson are one of the most powerful houses in the Riverlands, and have a reputation for dark deeds.;;;;;;;;;;;;;x
@@ -584,11 +657,12 @@ young_dragon_desc;The Young Dragon,, Daeron Targaryen was a mighty warrior and r
 the_blessed_desc;The most pious king ever to sit the Iron Throne, Baelor was beloved of the smallfolk and Faith, claiming that the Seven spoke to him, but to others he was a deranged zealot.;;;;;;;;;;;;;x
 viserys_ii_desc;The youngest son Prince Daemon and the Half Year Queen, Viserys spent much of his youth in Lys protected by the Rogares, upon his return he ably served his brother as hand.;;;;;;;;;;;;x
 oakenfist_desc;Born Alyn of Hull, Alyn was the bastard of either Laenor or Corlys Velaryon, legitimised during the Dance. He was a renowned seafarer famed for his voyages and victories.;;;;;;;;;;;;x
+addam_velaryon_desc;Born Addam of Hull, Alyn was the bastard of either Laenor or Corlys Velaryon, legitimised during the Dance. He was a was relentless, determined, glib of tongue, and loyal.;;;;;;;;;;;;x
 rhaegar_desc;Born amidst the Tragedy of Summerhall, Rhaegar was from the line of Aerys and his sister, Rhaella, which a Woods Witch prophecised would produce the Prince that was Promised.;;;;;;;;;;;;x
 oakenseat_desc;It has taken a truly wise ruler to regrow the Oakenseat and by doing so [This.GetTitledFirstName] has proven themselves to be the undisputed heir to Garth Greenhand.;;;;;;;;;;;;;x
 raventree_desc;It has taken a truly wise ruler to regrow the Weirwood of Raventree and by doing so [This.GetTitledFirstName] has proven themselves to be truly blessed by the Old Gods.;;;;;;;;;;;;;x
 penrose_desc;House Penrose are one of the most powerful houses of the Stormlands, ruling the castle of Parchments. Those with Penrose Blood have a reputation for bravery.;;;;;;;;;;;;;x
-little_lion_desc;Ser Wilbert Osgrey, the Little Lion, was the youngest son of the Warden of the Northmarch and slew Lancel IV, King of the Rock, at Red Lake,  saving the Reach.;;;;;;;;;;;;;x
+little_lion_desc;Ser Wilbert Osgrey, the Little Lion, was the youngest son of the Warden of the Northmarch and slew Lancel IV, King of the Rock, at Red Lake, saving the Reach.;;;;;;;;;;;;;x
 bloodstone_bloodline_desc;By dark magics and fell deeds [This.GetTitledFirstName] has restored the ancient Bloodstone worshipped by the Bloodstone Emperor, who began the Long Night with the Blood Betrayal.;;;;;;;;;;;;;x
 palanquin_bloodline_desc;It has taken a truly wise ruler to regrow the great Pearl Palanquin of the God-on-Earth and by doing so [This.GetTitledFirstName] has proven themselves to be the undisputed God Emperor of YiTi.;;;;;;;;;;;;;x
 yellow_emperors_desc;The Chai Dynasty of Yellow Emperors were skilled in diplomacy and their rule was marked with treaties with the Valyrian Freehold and beyond.;;;;;;;;;;;;;x
@@ -672,13 +746,14 @@ dayne_desc;The House of the Swords of Morning;;;;;;;;;;;;;x
 velaryon_desc;House Velaryon - The Old, the True, the Brave.;;;;;;;;;;;;;x
 greenseer_bloodline_desc;[This.GetTitledFirstName] was a greenseer, the chosen of the Old Gods, able to look through the eyes of the weirwoods as and see the truth that lies beneath the world.;;;;;;;;;;;;;x
 kingslayer_bloodline_desc;A mighty warrior, Ser Jaime Lannister of the Kingsguard forswore his oaths to King Aerys II slaying him on the Iron Throne during the siege of King's Landing.;;;;;;;;;;;;;x
-breakspear_mbs_desc;Firstborn son of Daeron II and Mariah Martell, Baelor was a warrior, and seemed to be all that could be wished in a knight, lord, or heir. He won great fame Redgrass Field.;;;;;;;;;;;;;x
+breakspear_mbs_desc;Firstborn son of Daeron II and Myriah Martell, Baelor was a warrior, and seemed to be all that could be wished in a knight, lord, or heir. He won great fame Redgrass Field.;;;;;;;;;;;;;x
 sword_morning_mbs_desc;House Dayne are an ancient House from the Red Mountains. The first Dayne is said to have raised Starfall at the mouth of the Torrentine, having tracked a falling star there.;;;;;;;;;;;;;x
 tourney_champ_mbs_desc;[This.GetTitledFirstName] was an exceptional jouster, winning many hotly contested tourneys and carving their place in history as one of the finest knights of the age.;;;;;;;;;;;;;x
-melee_champ_mbs_desc;Northmen prefer notoriously brutal mÍlÈes full of injuries and death to tourneys. [This.GetTitledFirstName] managed to win many such contests, securing their place as one of the finest warriors of the age.;;;;;;;;;;;;;x
+melee_champ_mbs_desc;Northmen prefer notoriously brutal m√™l√©es full of injuries and death to tourneys. [This.GetTitledFirstName] managed to win many such contests, securing their place as one of the finest warriors of the age.;;;;;;;;;;;;;x
 basilisk_bl_desc;[This.GetTitledFirstName] oversaw much of the colonisation of the city of Gogossos, uncovering many secret lost dark arts and an ancient Valyrian Steel sword.;;;;;;;;;;;;;x
 chimera_bl_desc;[This.GetTitledFirstName] ruled over the kingdom of New Valyria and was acclaimed as heir to the Freehold. Most notably the priests of Mantarys granted them an ancient Valyrian Steel Sword.;;;;;;;;;;;;;x
 sphinx_bl_desc;[This.GetTitledFirstName] ruled over the restored ancient Kingdom of the Ifequevron and learned magics from the dimunitive Woods Walkers, long thought vanished into legend.;;;;;;;;;;;;;x
+behemoth_bl_desc;[This.GetTitledFirstName] journeyed into the mysterious Kingdom of the Jhogwin, deep in the Bone Mountains. Whilst there it is whispered that [This.GetSheHe] found an ancient cave housing the last of the mighty Jhogwin and fought it winning a mighty Valyrian Steel Sword. Having slain the ancient giant, [This.GetSheHe] emerged changed, stronger and taller than before, as if [This.GetSheHe] had absorbed some of the Jhogwin's power.;;;;;;;;;;;;;x
 shett_bl_desc;An ancient line descended from the First Men, House Shett once ruled over Gulltown and bore the title of Kings of the True Men, an ancient title dating back to the Dawn Age.;;;;;;;;;;;;;x
 axel_tully_desc;An ancient and powerful line of Rivermen nobility descended from the First Men, Ser Edmure Tully fought bravely for the Kings of House Mudd and his son Axel raised the great castle of Riverrun.;;;;;;;;;;;;;x
 hodor_mbs_desc;Hodor.;;;;;;;;;;;;;x
@@ -742,7 +817,7 @@ bloodline_myriah_martell_desc;The eldest child of the Prince of Dorne, Princess 
 bloodline_elia_martell_desc;The beautiful yet frail daughter of the Princess of Dorne, Princess Elia was wed to Prince Rhaegar Targaryen of Dragonstone, the firstborn son and heir of King Aerys II.;;;;;;;;;;;;;x
 bloodline_alicent_hightower_desc;The fair daughter of Hand of the King Ser Otto Hightower, Lady Alicent was beloved of many, and considered one of the finest beauties of her day, eventually wedding King Viserys I.;;;;;;;;;;;;;x
 bloodline_lysa_tully_desc;The secondborn daughter of Lord Hoster Tully, Lady Lysa was wed to Lord Jon Arryn of the Eyrie to secure the alliance between the Vale and Trident.;;;;;;;;;;;;;x
-bloodline_catelyn_tully_desc;The firstborn daughter of Lord Hoster Tully, Lady Catelyn was wed to Lord Eddard Stark of Winterfell to secure the alliance between the North and  Trident.;;;;;;;;;;;;;x
+bloodline_catelyn_tully_desc;The firstborn daughter of Lord Hoster Tully, Lady Catelyn was wed to Lord Eddard Stark of Winterfell to secure the alliance between the North and Trident.;;;;;;;;;;;;;x
 bloodline_cersei_lanniser_desc;The fair and ambitious daughter of Lord Tywin Lannister, Lady Cersei was considered one of the finest beauties of her day, but also had a deep sense of superiority and paranoia.;;;;;;;;;;;;;x
 bloodline_danaerys_dorne_desc;The daughter of King Aegon IV, Princess Daenerys was considered one of the finest beauties of her day and was loved by Daemon Blackfyre but wed Prince Maron of Dorne uniting Dorne with the Iron Throne.;;;;;;;;;;;;;x
 bloodline_lyarra_stark_desc;Daughter of Lord Torrhen of Winterfell, The King Who Knelt, Lyarra was married to Lord Ronnel of the Vale, the King Who Flew, to heal the wounds between the traditional enemies the North and the Vale.;;;;;;;;;;;;;x
@@ -753,13 +828,13 @@ bloodline_lannisport_lannister_desc;Not all Lannisters reside in Casterly Rock, 
 bloodline_racallio_ryndoon_desc;Racallio Ryndoon was a devious Tyroshi captain-general who declared himself King of the Narrow Sea, he is remembered for his fearsome skill in battle and mercurial moods.;;;;;;;;;;;;;x
 tyrion_bloodline_desc;Son of Lord Tywin Lannister, Tyrion was despised and called 'the Imp' by many thanks to his height, nevertheless his keen intellect makes him a skilled player of the Game of Thrones.;;;;;;;;;;;;;x
 bloodline_daena_defiant_desc;The firstborn daughter of King Aegon III, renowned for her beauty and headstrong nature, Daena was an expert horsewoman and archer and was always wilful, wild, and adventurous.;;;;;;;;;;;;;x
-bloodline_rhaena_targaryen_desc;The secondborn daughter of King Aegon III, renowned for her beauty and piety, Daena was known for her devotion to the Seven and unlike her sisters was dutiful, meek, and passive.;;;;;;;;;;;;;x
-bloodline_elaena_targaryen_desc;The thirdborn daughter of King Aegon III, renowned for her boldness and charm, Daena was an expert with finances and took after her sister Daena in her headstrong nature.;;;;;;;;;;;;;x
+bloodline_rhaena_targaryen_desc;The secondborn daughter of King Aegon III, renowned for her beauty and piety, Rhaena was known for her devotion to the Seven and unlike her sisters was dutiful, meek, and passive.;;;;;;;;;;;;;x
+bloodline_elaena_targaryen_desc;The thirdborn daughter of King Aegon III, renowned for her boldness and charm, Elaena was an expert with finances and took after her sister Daena in her headstrong nature.;;;;;;;;;;;;;x
 bloodline_rhaena_of_pentos_desc;One of the twin daughters of Daemon Targaryen and Laena Targaryen, Princess Rhaena was beautiful, bold, and charming, loving to dance, and enchanting all she met.;;;;;;;;;;;;;x
 bloodline_baela_targaryen_desc;One of the twin daughters of Daemon Targaryen and Laena Targaryen, Princess Baela was wild and wilful, loving to hawk and ride, and said to be as fearsome as her father.;;;;;;;;;;;;;x
-bloodline_queen_rhaena_desc;The beautiful daughter of King Aerys I, Rhaena was once a shy child but became bold and headstrong after taming the dragon Dreamfyre, she was haughty but was kind to those she cared for.;;;;;;;;;;;;;x
+bloodline_queen_rhaena_desc;The beautiful daughter of King Aenys I, Rhaena was once a shy child but became bold and headstrong after taming the dragon Dreamfyre, she was haughty but was kind to those she cared for.;;;;;;;;;;;;;x
 bloodline_staedmon_desc;An ancient and powerful house from the Stormlands, House Staedmon have a reputation for avarice and parsimony.;;;;;;;;;;;;;x
-bloodline_butterwell_desc;An rich and powerful house from the Riverlands, House Butterwell became wealthy from dairy cows, and some still dismiss them as little more than upjumped cattle thieves.;;;;;;;;;;;;;x
+bloodline_butterwell_desc;A rich and powerful house from the Riverlands, House Butterwell became wealthy from dairy cows, and some still dismiss them as little more than upjumped cattle thieves.;;;;;;;;;;;;;x
 bloodline_smallwood_desc;An ancient and prestigious house from the Riverlands, ruling from Acorn Hall. Those with Smallwood Blood have a reputation for bravery.;;;;;;;;;;;;;x
 bloodline_farring_desc;A prestigious house from the Blackwater Bay, those with Farring Blood have a strong martial reputation.;;;;;;;;;;;;;x
 bloodline_hayford_desc;A wealthy and prestigious house from the Blackwater Bay, those with Hayford Blood have a reputation for bravery;;;;;;;;;;;;;x
@@ -790,7 +865,7 @@ bloodline_khal_loso_desc;A powerful Khal amongst the Dothraki, Khal Haro fought 
 bloodline_khal_mengo_desc;A powerful and pious Khal amongst the Dothraki, Khal Mengo, advised by his witch mother Doshi, was the first Khal to unite the Dothraki people into one khalasar.;;;;;;;;;;;;;x
 bloodline_khal_moro_desc;A powerful Khal amongst the Dothraki, Khal Moro was the son of Khal Mengo uniter of the Dothraki, and led them against many Sarnori cities.;;;;;;;;;;;;;x
 bloodline_khal_onqo_desc;A powerful Khal amongst the Dothraki, Khal Onqo led a mighty khalasar into battle against the Men of Ibben and their colony of Ibbish;;;;;;;;;;;;;x
-bloodline_khal_qano_desc;A powerful Khal amongst the Dothraki, Khal haro fought against the Sarnori during the Century of Blood.;;;;;;;;;;;;;x
+bloodline_khal_qano_desc;A powerful Khal amongst the Dothraki, Khal Haro fought against the Sarnori during the Century of Blood.;;;;;;;;;;;;;x
 bloodline_khal_rogo_desc;A powerful Khal amongst the Dothraki, Khal Rogo sacked the City of Ibbish during the Century of Blood.;;;;;;;;;;;;;x
 bloodline_khal_scoro_desc;A powerful Khal amongst the Dothraki, Khal Rogo sacked the City of Ibbish during the Century of Blood, carrying their gods to Vaes Dothrak.;;;;;;;;;;;;;x
 bloodline_khal_temmo_desc;A powerful Khal amongst the Dothraki, Khal Temmo slew Khal Dhako, Dragon of the North, taking his khalasar for his own.;;;;;;;;;;;;;x
@@ -800,8 +875,8 @@ bloodline_mazor_alexi_desc;A mighty High King of the Sarnori, Mazor Alexi led th
 bloodline_rhaego_desc;Son of the mighty Khal Drogo and the exiled Westerosi Princess Danaerys Targaryen, last scion of Old Valyria, Rhaego was prophecised as the Stallion that Mounts the World by the Dosh Khaleen.;;;;;;;;;;;;;x
 bloodline_house_ball_desc;An ancient house of the Reach, House Ball are descended from Florys the Fox. The most martial of the houses Florys founded, House Ball have reputation for bravery, valour, and martial prowess.;;;;;;;;;;;;;x
 bloodline_fireball_desc;Known as the Fireball for his fiery hair, and fiercer temper, Ser Quentyn Ball was Master of Arms of the Red Keep one of the finest swordsmen of his day and a great friend of Daemon Blackfyre.;;;;;;;;;;;;;x
-bloodline_house_peake_desc;An ancient house of the Reach, House Ball are descended from Florys the Fox. House Peake are known for their boundless ambition and rivalry with the Manderlys who they forced from the Reach.;;;;;;;;;;;;;x
-bloodline_house_florent_desc;An ancient house of the Reach, House Ball are descended from Florys the Fox. House Peake have a reputation for their ambition and their plotting.;;;;;;;;;;;;;x
+bloodline_house_peake_desc;An ancient house of the Reach, House Peake are descended from Florys the Fox. House Peake are known for their boundless ambition and rivalry with the Manderlys who they forced from the Reach.;;;;;;;;;;;;;x
+bloodline_house_florent_desc;An ancient house of the Reach, House Florent are descended from Florys the Fox. House Peake have a reputation for their ambition and their plotting.;;;;;;;;;;;;;x
 bloodline_sand_snake_desc;The Red Viper of Dorne was known for fathering a number of daughters, each said to share his viper eyes, cunning, and ability to defend themself. These daughters were known as the Sand Snakes.;;;;;;;;;;;;;x
 bloodline_hugh_hammer_desc;A tall blacksmith from Dragonstone, with hands strong enough to twist steel bars, Hugh Hammer answered Prince Jacaerys Velaryon call for dragonriders and successfully tamed Vermithor, the Bronze Fury, former mount of the Conciliator.;;;;;;;;;;;;;x
 bloodline_ulf_white_desc;A pale haired man of arms of Dragonstone, known for his drinking, Ulf White answered Prince Jacaerys Velaryon call for dragonriders and successfully tamed Silverwing, former mount of the Good Queen.;;;;;;;;;;;;;x
@@ -849,6 +924,75 @@ bloodline_viserys_iii_desc;Whilst a child Viserys Targaryen, was forced into exh
 bloodline_artos_stark_desc;Known as the Implacable, Artos Stark was the most fearsome warrior of his age. At the Battle of Long Lake when King Beyond-the-Wall Raymun Redbeard killed and beheaded Artos' brother Lord Willam of Winterfell, only for Artos to slay him in turn avenging his brother and ending the Wildling threat.;;;;;;;;;;;;;x
 bloodline_roger_reyne_desc;Lord of Castamere, Roger Reyne was a skilled knight and military commander. He was considered the deadliest man in the Westerlands in his time;;;;;;;;;;;;;x
 bloodline_robb_reyne_desc;One of Daemon Blackfyre's 'Roll of Heroes,' Robb Reyne was a mighty warrior and honourable knight, amongst the finest of his day.;;;;;;;;;;;;;x
+bloodline_alyssa_velaryon_desc;The fair daughter of Aethan Velaryon, Lord of the Tides and Master of Ships, Lady Alyssa Velaryon was wed to Aenys Targaryen, eldest son and heir of the Conqueror. Lady Alyssa was known for her charm, wit, and kidness.;;;;;;;;;;;;;x
+bloodline_strong_boys_desc;Ostensibly the children of Ser Laenor Velaryon, a number of the children of Princess Rhaenyra Targaryen were noted for their brown eyes, brown hair, and pug noses - a far cry from the lilac eyes, silver-white hair, and fine features of Ser Laenor. Some even remarked that such "strong boys" bore an uncanny resemblance to Ser Harwin Strong, heir to Harrenhal and sworn shield to Princess Rhaenyra, though few were brave enough to say so in front of them or their mother.;;;;;;;;;;;;;x
+bloodline_thoros_desc;A Red Priest hailing from Myr, Thoros found his faith rekindled at the Battle at the Mummer's Ford when he inadvertently resurrected the dead Lord Beric Dondarrion to life. Finding himself blessed by R'hllor Thoros became known for his feats of magic and his dedication to protecting the smallfolk of the Riverlands.;;;;;;;;;;;;;x
+bloodline_melisandre_desc;A sorceress, shadowbinder, and red priestess from Asshai, Melisandre was utterly devoted to the Lord of Light and determined to find and guide Azor Ahai reborn, believing Stannis Baratheon to be this hero of prophecy.;;;;;;;;;;;;;x
+bloodline_beric_desc;A dashing and charming lord from the Dornish Marches, Lord Beric Dondarrion was slain at the Battle at the Mummer's Ford, only to be resurrected by the blessings of R'hllor and the actions of Thoros of Myr. Blessed with the fire of his new god flowing in his veins Lord Beric fought for the smallfolk of the Riverlands, but each time he died he came back with a little less of his humanity.;;;;;;;;;;;;;x
+bloodline_belicho_desc;Triarch Belicho was a renowned Volantene patriot whose famous exploits are recorded in the series The Life of the Triarch Belicho. His unbroken succession of conquests and triumphs ended rather abruptly when he was eaten by giants;;;;;;;;;;;;;x
+bloodline_vhalaso_the_munificent_desc;A mighty Triarch of Volantis, Triarch Vhalaso commanded the construction of the Long Bridge across the Rhoyne, linking Old Volantis with the western shore. A great feat of engineering the Long Bridge is the longest bridge in the world and can support the weight of a thousand elephants, yet Vhalaso did not live to see it finished.;;;;;;;;;;;;;x
+bloodline_widow_of_the_waterfront_desc;Once merely a pleasure slave, the Widow was previously wife to the elephant Triarch Vogarro, who fell in love, freed her, and married her. After Vogarro's death, she sold his manse and took over her husband's shipping business, now ruling it from her residence at the Merchant's House as no freeman can live behind the Black Walls of Old Volantis.;;;;;;;;;;;;;x
+fisher_desc;House Fisher was a noble house from the riverlands who ruled as King of the Rivers and the Hills prior to Aegon's Conquest. ;;;;La Casa Fisher fue una noble casa de las Tierras de los R√åos que gobern√õ como Reyes de los R√åos y de las Colinas antes de la Conquista de Aegon.;;;;;;;;;x
+bloodline_teague_desc;Torrence Teague was an adventurer of uncertain birth who raided the Westerlands for gold. Teague used this wealth to bring large numbers of sellswords from across the Narrow Sea and after six years of war, Torrence was crowned King of the Trident at Maidenpool.;;;;;;;;;;;;;x
+bloodline_justman_desc;A bastard from Houses Blackwood and Bracken, Benedict Rivers was despised by all as a boy. However, he became a great knight, and his prowess earned him the support of his parents' families and then other riverlords. Benedict was able to defeat all petty kings in the riverlands over more than thirty years, after which he was crowned King of Rivers and Hills.;;;;;;;;;;;;;x
+bloodline_fisher_desc;An ancient dynasty of First Men, the kings of House Fisher ruled the Kingdom of Rivers and Hills from their capital on the Misty Isle.;;;;;;;;;;;;;x
+bloodline_alester_sarwyck_desc;The eldest son and heir of Lord Raynald Sarwyck, Ser Alester Sarwyck abandoned his home, faith, and lands after Robert's Rebellion, travelling into Essos. In the east he turned to the Red God R'hllor, becoming a red priest able to wield the powers of flame;;;;;;;;;;;;;x
+bloodline_aegon_uncrowned_desc;After the death of his father King Aenys I, Prince Aegon's wicked uncle, Maegor the Cruel, usurped the Iron Throne and claimed the mighty dragon Balerion for himself. After taming his father's dragon Quicksilver, Aegon "The Uncrowned" successfully defeated his uncle and ascended to the Iron Throne as the rightful King Aegon II.;;;;;;;;;;;;;x
+bloodline_euron_desc;Nicknamed "The Crow's Eye", Euron Greyjoy was a brutal reaver, who never gave up the Old Way, even for a day. His ship Silence, with its black sails and dark red hull, was infamous in every port from Ibben to Asshai for the terrible and dark deeds it wrought.;;;;;;;;;;;;;x
+bloodline_euron_king_desc;Chosen to rule the Iron Isles by the Kingsmoot, it was said that the cruel, mystical, and half-mad Iron King Euron Greyjoy was the godliest man ever to raise sail: most men serve one god, but he have served ten thousand, from Ib to Asshai, when men saw his sails, they pray.;;;;;;;;;;;;;x
+mbs_manylegitchildren_man_desc;To sire fifteen children is an impressive achievement for any man, and [This.GetTitledFirstNameWithNickAndDynasty] managed to achieve this impressive feat without straying from his marital bed, fathering well over a dozen trueborn children.;;;;;;;;;;;;;x
+mbs_manylegitchildren_woman_desc;To sire fifteen children is an impressive achievement for any woman, and [This.GetTitledFirstNameWithNickAndDynasty] managed to achieve this impressive feat without straying from her marital bed, giving birth to well over a dozen trueborn children.;;;;;;;;;;;;;x
+mbs_manybastardchildren_man_desc;To sire fifteen children is an impressive achievement for any man, admittedly [This.GetTitledFirstNameWithNickAndDynasty] managed to achieve this in part thanks to siring children out of wedlock, but it was nonetheless an impressive feat to father well over a dozen children.;;;;;;;;;;;;;x
+mbs_manybastardchildren_woman_desc;To sire fifteen children is an impressive achievement for any woman, admittedly [This.GetTitledFirstNameWithNickAndDynasty] managed to achieve this in part thanks to siring children out of wedlock, but it was nonetheless an impressive feat to give birth to well over a dozen children.;;;;;;;;;;;;;x
+walder_frey_prw_desc;Though he is not considered the most honourable of men, Lord Walder Frey of the Crossing is know for having a prodigious number of children, both trueborn and baseborn. Some have even joked that Lord Walder is the only lord in the Seven Kingdoms who could field an army out of his breeches.;;;;;;;;;;;;;x
+ygon_oldfather_desc;Ygon Oldfather was a mighty chief of the Wildlings, known for primarily for having fathered many children, and for having a great many wives, mostly captured on raids.;;;;;;;;;;;;;x
+mbs_bl_ironthrone_desc;[This.GetTitledFirstNameWithNickAndDynasty] successfully ascended to the Iron Throne, becoming the first of their line to rule over The Seven Kingdoms.;;;;;;;;;;;;;x
+bloodline_ellyn_reyne_desc;The proud and ambitious daughter of Lord Robert Reyne, Lady Ellyn desired nothing more than to become lady of Casterly Rock.;;;;;;;;;;;;;x
+bloodline_ashara_dayne_desc;The beautiful daughter of the Lord of Starfall, Ashara Dayne was kind and fair with haunting violet eyes that bewitched many of those who knew her.;;;;;;;;;;;;;x
+pirate_trader_desc;A powerful Pirate Lord, [This.GetTitledFirstName] sought to gain wealth and influence by trade as well as by plunder.;;;;;;;;;;;;;x
+pirate_reaver_desc;A powerful Pirate Lord, [This.GetTitledFirstName] was feared far and wide for [This.GetHerHis] violent and brutal raids.;;;;;;;;;;;;;x
+pirate_westerosi_desc;A powerful Pirate Lord, [This.GetTitledFirstName] sought to protect [This.GetHerHis] realm by growing [This.GetHerHis] ties with the Seven Kingdoms of Westeros.;;;;;;;;;;;;;x
+pirate_freecities_desc;A powerful Pirate Lord, [This.GetTitledFirstName] sought to protect [This.GetHerHis] realm by growing [This.GetHerHis] ties with the Free Cities.;;;;;;;;;;;;;x
+pirate_slaver_desc;A powerful Pirate Lord, [This.GetTitledFirstName] was know for [This.GetHerHis] large role in the slave trade.;;;;;;;;;;;;;x
+pirate_liberator_desc;A powerful Pirate Lord, [This.GetTitledFirstName] sought to free all the slaves and punish all the slavers that passed through [This.GetHerHis] hands.;;;;;;;;;;;;;x
+bloody_ben_blackwood_desc;Becoming Lord of Raventree Hall at a young age, Lord Benjicot Blackwood soon proved himself a skilled commander, proving an able leader of the Lads and demonstrating a ferocity in battle.;;;;;;;;;;;;;x
+brute_bracken_desc;Ser Otho Bracken was a noted tourney knight. Known for his ferocity, he used his imposing stature to great effect to become a great champion.;;;;;;;;;;;;;x
+bloodline_joff_lydden_desc;Descended from Andal adventurers, Ser Joffrey Lydden was chosen as King of the Rock when the direct male line of House Lannister died out. Through his wife, the daughter of the previous Lord of Casterly Rock, Ser Joffrey adopted the Lannister name and sigil.;;;;;;;;;;;;;x
+bloodline_rego_draz_desc;Lord Rego Draz began life with nothing but rose to become the richest man in all of Pentos. Disliked by the Magisters of the city for his low birth, Rego chose to accept the offer of becoming King Jaehaerys' Master of Coin, becoming known as the Lord of Air.;;;;;;;;;;;;;x
+bloodline_nevio_narratys_desc;Nevio was chosen as Prince of Pentos during a war between Pentos and Braavos over slavery. He was the fifth prince chosen in a single year, the previous four all having been sacrificed to the Gods by the magisters after Pentoshi defeats. Nevio convinced the magisters to sue for peace after a rare victory, that some claimed he had obtained through bribery, as a result peace, and Nevio's survival was obtained.;;;;;;;;;;;;;x
+bloodline_tattered_prince_desc;A Pentoshi noble of an ancient and respected house, at the age of twenty-three the Tattered Prince was chosen by the Magisters of the Free City of Pentos to be their new Prince, mere hours after they'd beheaded the previous one. Rather than live as a puppet, constantly under threat of sacrifice, the Tattered Prince fled into the Disputed Lands where he established the Windblown, a fearsome mercenary comany.;;;;;;;;;;;;;x
+bloodline_tyanna_of_tower_desc;Tyanna was rumored to be the natural daughter of a Pentoshi magister who began as a tavern dancer and rose to become a courtesan. She was said to dabble in sorcery and alchemy and was a lover and queen to King Maegor the Cruel.;;;;;;;;;;;;;x
+bloodline_janos_slynt_desc;The son of a King's Landing butcher, Janos Slynt rose to become first the Captain of the Iron Gate and then the Commander of the Gold Cloaks. In return for betraying Lord Eddard Stark and disposing of King Robert's bastards Janos was made Lord of Harrenhal and took a bloody spear for his sigil in honour of his dark deed.;;;;;;;;;;;;;x
+bloodline_philip_foote_desc;A one eyed knight from House Foote, Ser Philip won great aclaim for himself and was granted the title of Lord of Nightsong for slaying Lord Bryce Caron in single combat during the Battle of the Blackwater.;;;;;;;;;;;;;x
+bloodline_appleater_brune_desc;A hedge knight of good skill but little consequence, denied even by his own kin, Ser Lothor Brune won great fame for himself during the Battle of the Blackwater, slaying two Fossoways and capturing a third, becoming known as Lothor Apple-Eater.;;;;;;;;;;;;;x
+bloodline_nutt_desc;A bold and defiant riverlord, Lady Jeyne Nutt claimed the title of Queen of the Trident in rebellion against House Durrandon. Queen Jeyne's reign was brief, inglorious and ended in her execution.;;;;;;;;;;;;;x
+bloodline_harte_desc;A brave man, Lord Harte was arrested at the start of the Dance of the Dragons by Aegon II Targaryen. When given the choice between swearing his allegiance to Aegon II or being killed by the King's Justice, Lord Harte chose to keep his sworn word and was beheaded for it.;;;;;;;;;;;;;x
+bloodline_cassel_desc;House Cassel have long served House Stark as loyal retainers, with many Cassels having given their life in battle for Winterfell and its Lords.;;;;;;;;;;;;;x
+bloodline_theon_balon_desc;The thirdborn son of Balon Greyjoy, Theon was raised for much of his childhood as a ward at Winterfell. Despite his supposed closeness to the Starks, Theon chose to follow his father's command and make war upon the North as part of Balon's second war for a crown. During this Theon used his knowledge of the North to enact many schemes and betray many he had once called friend, earning the name 'Turncloak,' however, his ruthlessness earnt the respect of the Ironborn and he came to sit in turn on the Seastone Chair.;;;;;;;;;;;;;x
+bloodline_theon_robb_desc;The thirdborn son of Balon Greyjoy, Theon was raised for much of his childhood as a ward at Winterfell. When his father sought to invade the North in his second war for a crown, Theon chose the family that raised him over the family that bore him, joining King Robb against his father. This act of betrayal made many a follower of the Drowned God curse his name.;;;;;;;;;;;;;x
+bloodline_theon_robb_king_desc;The thirdborn son of Balon Greyjoy, Theon was raised for much of his childhood as a ward at Winterfell. When his father sought to invade the North in his second war for a crown, Theon chose the family that raised him over the family that bore him, joining King Robb against his father. This act of betrayal made many a follower of the Drowned God curse his name, but his cunning and the glory he won fighting for Winterfell would eventually see him sit the Seastone Chair.;;;;;;;;;;;;;x
+bloodline_dragon_big_desc;[This.GetFirstNameWithNick] was a mighty dragon, known for their great size and strength, a true giant of a dragon, whose wings blotted out the sun and whose name strikes dread into all that hear it.;;;;;;;;;;;;;x
+bloodline_dragon_old_desc;[This.GetFirstNameWithNick] was known for being exceptionally long lived, even amongst dragonkind, living for [This.GetAgeYears] years.;;;;;;;;;;;;;x
+bloodline_dragon_fair_desc;[This.GetFirstNameWithNick] was a splendid dragon, known for their grace and beauty, considered one of the most stunning dragons ever to take wing, their scales shone like beaten metal.;;;;;;;;;;;;;x
+bloodline_dragon_fertile_desc;[This.GetFirstNameWithNick] was a prodigious dragon, giving birth to many clutches of eggs, many of which would go on to hatch, leaving many descendants.;;;;;;;;;;;;;x
+bloodline_dragon_untamed_desc;[This.GetFirstNameWithNick] had a reputation for being almost impossible to be trained, spending decades without a rider, living wild.;;;;;;;;;;;;;x
+bloodline_dragon_cunning_desc;[This.GetFirstNameWithNick] was known for being a wily and cunning dragon, able to use their speed and grace to outwit and outmatch many foes.;;;;;;;;;;;;;x
+bloodline_dragon_balerion_desc;Balerion the Black Dread was the greatest;;;;;;;;;;;;;x
+cleon_the_butcher_bl_mbs_desc;Cleon was an enslaved butcher and cook, it was said Cleon could cut up a pig faster than any other man in Astapor. After Astapor fell to Danaerys Stormborn, Cleon rose to become the King of Astapor, calling himself Cleon the Great.;;;;;;;;;;;;;x
+davos_dragonslayer_desc;Ser Davos the Dragonslayer was a legendary hero of the reach during the Age of Heroes, credited with many mighty deeds, not least of which was his slaying of a mighty dragon.;;;;;;;;;;;;;x
+aemond_one_eye_bl_desc;The son of King VIserys I, Prince Aemond lost his right eye in a brawl with his nephew Lucerys after taming the mighty dragon Vhagar. Though Aemond claimed that he considered an eye for a dragon a fair trade, he grew into a bitter and cruel man, though no less cunning and skilled with the blade.;;;;;;;;;;;;;x
+rhaenyra_black_win_bl_desc;The daughter of King VIserys I and Queen Aemma Arryn, Rhaenyra's right to rule was disputed by her younger half-brother Aegon, despite her being their father's designated heir. Thus began the Dance of Dragons, a brutal war for power between the Greens and the Blacks. Rhaenyra won the Dance and cast down all those who challenged his preeminence.;;;;;;;;;;;;;x
+aegon_green_win_bl_desc;The sixth Targaryen king to sit the Iron Throne, Aegon III's right to rule was disputed by his older half-sister, Princess Rhaenyra Targaryen, who had been their father's designated heir. Thus began the Dance of Dragons, a brutal war for power between the Greens and the Blacks. Aegon won the Dance and cast down all those who challenged his preeminence.;;;;;;;;;;;;;x
+bloodline_golden_company_desc;[This.GetTitledFirstName] was a cunning and wise Captain General of the Golden Company, able to finally fulfil their purpose of seating a dragon of their own upon the Iron Throne. With this act the Golden Company at last had the justice it had craved for so long and disbanded itself.;;;;;;;;;;;;;x
+bloodline_locke_desc;Once ruling as petty kings of the First Men, the Lockes of Oldcastle are amongst the North's most powerful houses.;;;;;;;;;;;;;x
+bloodline_slate_desc;Once ruling as petty kings of the First Men, the Slates of Blackpool are amongst the North's most powerful houses.;;;;;;;;;;;;;x
+clubfoot_bloodline_desc;A younger son of Lord Lyonel Strong, Larys Strong was born with a twisted foot, earning the nickname "Clubfoot." An enigmatic and cunning man, he served as Master of Whisperers and Lord Confessor to the Targaryens.;;;;;;;;;;;;;x
+rogueprince_bloodline_desc;Brother to King Viserys I, Prince Daemon was a fierce warrior who wielded the Valyrian steel sword Dark Sister and rode the dragon Caraxes. He helped Lord Corlys Velaryon subdue the Triarchy's hold on the Stepstones, briefly crowning himself King of the Narrow Sea.;;;;;;;;;;;;;x
+florian_bloodline_desc;A legendary hero from the riverlands, Florian was a great fool and a great knight who wore a suit of iron motley and was not of noble birth. He is known for falling in love with a maiden named Jonquil who he first saw at Maidenpool, and having a famous sword.;;;;;;;;;;;;;x
+weeper_bloodline_desc;A notorious wildling raider called the Weeper due to his watery eyes, he is known for killing rangers of the Night's Watch and raiding the northern mountain clans, often cruelly blinding his victims.;;;;;;;;;;;;;x
+vulture_king_mbs_bl_desc;[This.GetTitledFirstName] succewssfully won a vulture hunt rebellion against the Andals to the north, bringing fame and plunder to the Red Mountains.;;;;;;;;;;;;;x
+black_harren_bl_desc;A vain, bloody tyrant hated by those he ruled, Black Harren Hoare was the cruel and vicious tyrant who ruled the Iron Isles and the Riverlands. Desiring a grand seat to rule from, harren commanded the construction of the grand castle Harrenhal, a project that took almost forty years to complete. The riverlands and Iron Islands were drained to finance the building, with thousands of captives dying in the quarries, chained to sledges, or laboring on the towering walls and five huge towers.;;;;;;;;;;;;;x
+sage_kings_bl_desc;King Garth IX, his son King Merle I, and Merle's son King Gwayne V are collectively known as the Three Sage Kings. A trio of wise and cunning Kings of the Reach, they sought to bind the invading Andals to Highgarden by marriage and patronage, learning tactics and metalworking from them, rather than seeking to beat the back by force of arms. In the words of King Gwayne V "They gave us seven gods, we gave them dirt and daughters, and our sons and grandsons shall be as brothers.";;;;;;;;;;;;;x
 
 
 
@@ -863,46 +1007,52 @@ ELDER_BROTHER_MBS;Elder Brother;;;;;;;;;;;;;x
 ELDER_BROTHER_MBS_FOA;Elder Brother;;;;;;;;;;;;;x
 
 
-bloodline_effect_tall;Characters tend to be ßGtallß!;;;;;;;;;x
-bloodline_effect_mystic;Characters can become ßGmysticsß!;;;;;;;;;x
-bloodline_effect_hunter;Characters can become ßGhuntersß!;;;;;;;;;x
-bloodline_effect_crane;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_cruel;Characters can become ßGcruelß!;;;;;;;;;x
-bloodline_effect_brave;Characters tend to be ßGbraveß!;;;;;;;;;x
-bloodline_effect_falconer;Characters can become ßGfalconersß!;;;;;;;;;x
-bloodline_effect_vulture;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_lusty;Characters tend to be ßGlustyß!;;;;;;;;;x
-bloodline_effect_blackwood;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_greensight;Characters can become ßGgreenseersß!;;;;;;;;;x
-bloodline_effect_wroth;Characters can become ßGwrothfulß!;;;;;;;;;x
-bloodline_effect_fair;Characters tend to be ßGfairß!;;;;;;;;;x
-bloodline_effect_liberator;Characters can become ßGliberatorsß!;;;;;;;;;x
-bloodline_effect_direwolf;Characters have a chance to obtain a ßGdirewolfß!;;;;;;;;;x
-bloodline_effect_wolf;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_strategist;Characters can become ßGstrategistsß!;;;;;;;;;x
-bloodline_effect_impaler;Characters tend to be ßGtorturersß!;;;;;;;;;x
-bloodline_effect_justice;Characters tend to be ßGjustß!;;;;;;;;;x
-bloodline_effect_strong;Characters tend to be ßGstrongß!;;;;;;;;;x
-bloodline_effect_zealous;Characters tend to be ßGzealousß!;;;;;;;;;x
-bloodline_effect_mormont;Characters can become ßGskinchangersß!;;;;;;;;;x
+CASTELLAN_MBS;Castellan;;;;;;;;;;;;;x
+CASTELLAN_MBS_FOA;Castellan;;;;;;;;;;;;;x
+CASTELLAN_MBS_female;Castellan;;;;;;;;;;;;;x
+CASTELLAN_MBS_FOA_female;Castellan;;;;;;;;;;;;;x
+
+
+bloodline_effect_tall;Characters tend to be ¬ßGtall¬ß!;;;;;;;;;x
+bloodline_effect_mystic;Characters can become ¬ßGmystics¬ß!;;;;;;;;;x
+bloodline_effect_hunter;Characters can become ¬ßGhunters¬ß!;;;;;;;;;x
+bloodline_effect_crane;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_cruel;Characters can become ¬ßGcruel¬ß!;;;;;;;;;x
+bloodline_effect_brave;Characters tend to be ¬ßGbrave¬ß!;;;;;;;;;x
+bloodline_effect_falconer;Characters can become ¬ßGfalconers¬ß!;;;;;;;;;x
+bloodline_effect_vulture;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_lusty;Characters tend to be ¬ßGlusty¬ß!;;;;;;;;;x
+bloodline_effect_blackwood;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_greensight;Characters can become ¬ßGgreenseers¬ß!;;;;;;;;;x
+bloodline_effect_wroth;Characters can become ¬ßGwrothful¬ß!;;;;;;;;;x
+bloodline_effect_fair;Characters tend to be ¬ßGfair¬ß!;;;;;;;;;x
+bloodline_effect_liberator;Characters can become ¬ßGliberators¬ß!;;;;;;;;;x
+bloodline_effect_direwolf;Characters have a chance to obtain a ¬ßGdirewolf¬ß!;;;;;;;;;x
+bloodline_effect_wolf;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_strategist;Characters can become ¬ßGstrategists¬ß!;;;;;;;;;x
+bloodline_effect_impaler;Characters tend to be ¬ßGtorturers¬ß!;;;;;;;;;x
+bloodline_effect_justice;Characters tend to be ¬ßGjust¬ß!;;;;;;;;;x
+bloodline_effect_strong;Characters tend to be ¬ßGstrong¬ß!;;;;;;;;;x
+bloodline_effect_zealous;Characters tend to be ¬ßGzealous¬ß!;;;;;;;;;x
+bloodline_effect_mormont;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
 bloodline_effect_tully;Family, Duty, Honour.;;;;;;;;;x
-bloodline_effect_craven;Characters tend to be ßGcravenß!;;;;;;;;;x
-bloodline_effect_reed;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_lion;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_paranoid;Characters tend to be a little ßGparanoidß!;;;;;;;;;x
-bloodline_effect_brawny;Characters tend to be ßGrobustß!;;;;;;;;;x
-bloodline_effect_poet;Characters tend to be ßGpoetsß!;;;;;;;;;x
-bloodline_effect_cannibal;Characters can become ßGcannibalsß!;;;;;;;;;x
-bloodline_effect_bat;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_great_warg;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_great_bat;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_lunatic;Characters often become  ßGmadß!;;;;;;;;;x
+bloodline_effect_craven;Characters tend to be ¬ßGcraven¬ß!;;;;;;;;;x
+bloodline_effect_reed;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_lion;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_paranoid;Characters tend to be a little ¬ßGparanoid¬ß!;;;;;;;;;x
+bloodline_effect_brawny;Characters tend to be ¬ßGrobust¬ß!;;;;;;;;;x
+bloodline_effect_poet;Characters tend to be ¬ßGpoets¬ß!;;;;;;;;;x
+bloodline_effect_cannibal;Characters can become ¬ßGcannibals¬ß!;;;;;;;;;x
+bloodline_effect_bat;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_great_warg;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_great_bat;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_lunatic;Characters often become  ¬ßGmad¬ß!;;;;;;;;;x
 bloodline_effect_tormund;Tormund has a very interesting story involving a bear...;;;;;;;;;x
-bloodline_effect_winged_wolf;Characters have a natural aptitude for ßGskinchangingß!;;;;;;;;;x
-bloodline_effect_proud;Characters tend to be ßGproudß!;;;;;;;;;x
-bloodline_effect_celibate;Characters tend to take vows of ßGcelibacyß!;;;;;;;;;x
-bloodline_effect_gardeners;Characters tend to be ßGgardenersß!;;;;;;;;;x
-bloodline_effect_hunchback;Characters tend to be ßGhunchbackedß!;;;;;;;;;x
+bloodline_effect_winged_wolf;Characters have a natural aptitude for ¬ßGskinchanging¬ß!;;;;;;;;;x
+bloodline_effect_proud;Characters tend to be ¬ßGproud¬ß!;;;;;;;;;x
+bloodline_effect_celibate;Characters tend to take vows of ¬ßGcelibacy¬ß!;;;;;;;;;x
+bloodline_effect_gardeners;Characters tend to be ¬ßGgardeners¬ß!;;;;;;;;;x
+bloodline_effect_hunchback;Characters tend to be ¬ßGhunchbacked¬ß!;;;;;;;;;x
 bloodline_effect_longspoon;Characters can sometimes consume the brains of others for learning and intrigue.;;;;;;;;;x
 bloodline_effect_sons;Characters can find it difficult to produce a male heir.;;;;;;;;;x
 bloodline_effect_eunuch;Upon ascending to the throne character are expected to castrate themselves.;;;;;;;;;x
@@ -911,27 +1061,28 @@ bloodline_effect_scion;Characters can peacefully settle nomadic tribes, colonisi
 bloodline_effect_shield;Characters can lay claim to the Shadowlands.;;;;;;;;;x
 bloodline_effect_peasant;Characters can build unique buildings to improve conditions for the peasantry.;;;;;;;;;x
 bloodline_effect_diplomat;Characters can send imperial delegations to foreign courts.;;;;;;;;;x
-bloodline_effect_charitable;Characters tend to be ßGcharitableß!;;;;;;;;;x
+bloodline_effect_charitable;Characters tend to be ¬ßGcharitable¬ß!;;;;;;;;;x
 bloodline_effect_bureaucrat;Characters can build unique buildings to educate their subjects and recruit imperial officials.;;;;;;;;;x
 bloodline_effect_living_god;Characters can remind their subjects of their divine status.;;;;;;;;;x
-bloodline_effect_whale;Characters have a mystical connection to the sea and can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_duelist;Characters can become ßGduelistsß!;;;;;;;;;x
-bloodline_effect_honourable;Characters tend to be ßGhonourableß!;;;;;;;;;x
-bloodline_effect_dog;Characters can become ßGskinchangersß!;;;;;;;;;x
-bloodline_effect_mariner;Characters are often skilled ßGmarinersß!;;;;;;;;;x
+bloodline_effect_whale;Characters have a mystical connection to the sea and can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_duelist;Characters can become ¬ßGduelists¬ß!;;;;;;;;;x
+bloodline_effect_honourable;Characters tend to be ¬ßGhonourable¬ß!;;;;;;;;;x
+bloodline_effect_dog;Characters can become ¬ßGskinchangers¬ß!;;;;;;;;;x
+bloodline_effect_mariner;Characters are often skilled ¬ßGmariners¬ß!;;;;;;;;;x
+bloodline_effect_familyperson;Characters tend to find strength in ¬ßGfamily¬ß!;;;;;;;;;x
 
 
 
 
-the_seven_DESC;The traditional religion of the Andals. The Seven is a single god with seven aspects - the Father, the Mother, the Warrior, the Maiden, the Smith, the Crone,and the Stranger - but is usually worshiped as thought it were seven seperate gods. Priests of the Seven are called Septons or Septas, and the gods are worshiped in seven-sided temples, called Septs. Zealous worshippers of the Seven can choose to venerate one aspect above all others.;La religion traditionnelle des Andals. Les Sept ne sont que les sept aspects d'une unique divinitÈ -le PËre, la MËre, le Guerrier, la Jouvencelle, le Ferrant, l'AÔeule et l'Etranger- mais la plupart des croyants les voient comme sept dieux diffÈrents. Les prÍtres des Sept sont appellÈs septons ou septas, et les dieux sont honorÈs dans des temples ‡ sept faÁades que l'on appelle des septuaires. ;;;La religiÛn tradicional de los ·ndalos. Los Siete es un dios ˙nico con siete aspectos - el padre, la madre, el guerrero, la doncella, el herrero, la vieja, y el desconocido - pero por lo general es adorado como siete dioses diferentes. Los sacerdotes de los Siete se llaman septones o septas, y los dioses son adorados en templos heptagonales, llamados Septos.;;;;;;;;;x
+the_seven_DESC;The traditional religion of the Andals. The Seven is a single god with seven aspects - the Father, the Mother, the Warrior, the Maiden, the Smith, the Crone,and the Stranger - but is usually worshiped as thought it were seven seperate gods. Priests of the Seven are called Septons or Septas, and the gods are worshiped in seven-sided temples, called Septs. Zealous worshippers of the Seven can choose to venerate one aspect above all others.;La religion traditionnelle des Andals. Les Sept ne sont que les sept aspects d'une unique divinit√© -le P√®re, la M√®re, le Guerrier, la Jouvencelle, le Ferrant, l'A√Øeule et l'Etranger- mais la plupart des croyants les voient comme sept dieux diff√©rents. Les pr√™tres des Sept sont appell√©s septons ou septas, et les dieux sont honor√©s dans des temples √† sept fa√ßades que l'on appelle des septuaires. ;;;La religi√≥n tradicional de los √°ndalos. Los Siete es un dios √∫nico con siete aspectos - el padre, la madre, el guerrero, la doncella, el herrero, la vieja, y el desconocido - pero por lo general es adorado como siete dioses diferentes. Los sacerdotes de los Siete se llaman septones o septas, y los dioses son adorados en templos heptagonales, llamados Septos.;;;;;;;;;x
 
 
 EVTDESCfuneral_winterfell.7;Packs upon packs of people, peasant and noble alike, gather in the courtyard of the First Keep of Winterfell, and surrounding lichyards to catch a glimpse of the deceased. As the procession leads the body of [funeral_target.GetTitledFirstName] through the crowded streets to the entrance of the ancient Crypt of Winterfell, where the Kings of Winterfell sleep, the populace wails its mourn and sorrow as the dead passes by. The leading train stops at the ironwood gates leading below. The surrounding crowd grows silent, all that is heard are the odd whisper or child's question as the pallbearers, the dead's kin and closest friends continue on, alone. Through the dark halls, they carry the lost, finally reaching the alcove and laying the body to rest below it's stone effigy, where each, in turn, bid their individual farewells. The last to leave reverently places an iron longsword across the lap of the statue and places a hand on the carved stone direwolf for a moment before turning and leaving the dead to their eternal rest.;;;;;;;;;;;;;x
 EVTDESCfuneral_standfast.7;The nobles and great Lords of Westeros may choose to burn their dead or to bury them in great crypts of stone, but the Osgreys have a simpler tradition. After those that knew and cared for [funeral_target.GetTitledFirstName] have arrived at the keep of Standfast they form a procession to the back of the hill on which Standfast is built. There, amongst the thicket of blackberries, a simple grave has been dug. The [funeral_target.Religion.GetPriestTitle] of Standfast leads a simple service of rememberance for [funeral_target.GetTitledFirstName] and as the cries and wails from the assembled party die down, a kinsman opens a cask of fine wine and pours a libation on the ground, before all present shout "[funeral_target.Religion.GetHighGodName] watch over [funeral_target.GetTitledFirstName]" before drinking in turn. With that those present retire to Standfast to feast and remember the life of [funeral_target.GetTitledFirstName].;;;;;;;;;;;;;x
 EVTDESCfuneral_casterly.7;Packs upon packs of people, peasant and noble alike, gather in the streets of Lannisport, to catch a glimpse of the deceased. As the procession leads the body of [funeral_target.GetTitledFirstName] through the crowded streets to the Lion's Maw, the entrance to Casterly Rock, the populace wails its mourn and sorrow as the dead passes by. Once they pass through the Lion's Maw, the riders dismount and the procession continues on to the Hall of Heroes on foot, where the bodies of the descendants of Lann the Clever have been buried since time immemorial. There surrounded by the armor of Lannister heroes of old a fresh stone sarcophagus as been carved, displaying the likeness of [funeral_target.GetTitledFirstName] with a stone lion curled beneath [funeral_target.GetHerHis] feet. The [funeral_target.Religion.GetPriestTitle] of Casterly Rock begins a service of rememberance for [funeral_target.GetTitledFirstName] and the cries and wails from the assembled party die down, as they pray to the [funeral_target.Religion.GetHighGodName] for the dead. As the sun fades away, a great feast is held and those who knew the dead recount stories of the life and deeds of the lost.;;;;;;;;;;;;;x
-EVTDESCfuneral_driftmark.7;Packs upon packs of people, peasant and noble alike, gather in the streets of Hull, Spicetown and Driftmark, to catch a glimpse of the deceased. As the procession leads the body of [funeral_target.GetTitledFirstName] down to the harbour, the populace wails its mourn and sorrow as the dead passes by. The leading train stops at the edge of the bay and the body is placed aboard a galley, on a bier painted with Velaryon seahorses, surrounded by [funeral_target.GetHerHis] finery. Once the [funeral_target.Religion.GetPriestTitle] of Driftmark has said a service of rememberance, the galley is towed out into the deep waters of the Narrow Sea, east of Dragonstone where it is scuppered and [funeral_target.GetTitledFirstName] is laid to rest beneath the waves.  As the sun fades away, a great feast is held and those who knew the dead recount stories of the life and deeds of the lost.;;;;;;;;;;;;;x
-EVTDESCfuneral_raventree.7;Packs upon packs of people, peasant and noble alike, gather in the courtyard of Raventree Hall, to catch a glimpse of the deceased. As the procession leads the body of [funeral_target.GetTitledFirstName] down to the godswood at the heart of the castle, the populace wails its mourn and sorrow as the dead passes by. The leading train stops beneath the branches of the great white Weirwood that gives the castle its name. The [funeral_target.Religion.GetPriestTitle] of Raventree Hall begins a service of rememberance, punctuated by the cries of ravens nesting in the tree above. Once the service is completed, [funeral_target.GetTitledFirstName]'s body is wrapped in a red shroud, covered in black ravens and buried in a gave, nestled amongst the roots of the weirwood, that they over time may become one with the tree and watch over their kin until the end of days.  As the sun fades away, a great feast is held and those who knew the dead recount stories of the life and deeds of the lost.;;;;;;;;;;;;;x
-EVTDESCfuneral_dreadfort.7;;Packs upon packs of people, peasant and noble alike, gather in the courtyard of the Dreadfort, and surrounding lichyards to catch a glimpse of the deceased. As the procession leads the body of [funeral_target.GetTitledFirstName] through the crowded streets to the entrance of the ancient Crypt of House Bolton, where the Lords of the Dreadfort sleep, the populace wails its mourn and sorrow as the dead passes by. The leading train stops at the entrance to the crypts. The surrounding crowd grows silent, all that is heard are the odd whisper or child's question as the pallbearers, the dead's kin and closest friends continue on, alone. Through the dark halls, they carry the lost, finally reaching the alcove and laying the body to rest below it's stone effigy, where each, in turn, bid their individual farewells. As the sun fades away, a great feast is held and those who knew the dead recount stories of the life and deeds of the lost.;;;;;;;;;;;;;x
+EVTDESCfuneral_driftmark.7;Packs upon packs of people, peasant and noble alike, gather in the streets of Hull, Spicetown and Driftmark, to catch a glimpse of the deceased. As the procession leads the body of [funeral_target.GetTitledFirstName] down to the harbour, the populace wails its mourn and sorrow as the dead passes by. The leading train stops at the edge of the bay and the body is placed aboard a galley, on a bier painted with Velaryon seahorses, surrounded by [funeral_target.GetHerHis] finery. Once the [funeral_target.Religion.GetPriestTitle] of Driftmark has said a service of rememberance, the galley is towed out into the deep waters of the Narrow Sea, east of Dragonstone where it is scuppered and [funeral_target.GetTitledFirstName] is laid to rest beneath the waves. As the sun fades away, a great feast is held and those who knew the dead recount stories of the life and deeds of the lost.;;;;;;;;;;;;;x
+EVTDESCfuneral_raventree.7;Packs upon packs of people, peasant and noble alike, gather in the courtyard of Raventree Hall, to catch a glimpse of the deceased. As the procession leads the body of [funeral_target.GetTitledFirstName] down to the godswood at the heart of the castle, the populace wails its mourn and sorrow as the dead passes by. The leading train stops beneath the branches of the great white Weirwood that gives the castle its name. The [funeral_target.Religion.GetPriestTitle] of Raventree Hall begins a service of rememberance, punctuated by the cries of ravens nesting in the tree above. Once the service is completed, [funeral_target.GetTitledFirstName]'s body is wrapped in a red shroud, covered in black ravens and buried in a gave, nestled amongst the roots of the weirwood, that they over time may become one with the tree and watch over their kin until the end of days. As the sun fades away, a great feast is held and those who knew the dead recount stories of the life and deeds of the lost.;;;;;;;;;;;;;x
+EVTDESCfuneral_dreadfort.7;Packs upon packs of people, peasant and noble alike, gather in the courtyard of the Dreadfort, and surrounding lichyards to catch a glimpse of the deceased. As the procession leads the body of [funeral_target.GetTitledFirstName] through the crowded streets to the entrance of the ancient Crypt of House Bolton, where the Lords of the Dreadfort sleep, the populace wails its mourn and sorrow as the dead passes by. The leading train stops at the entrance to the crypts. The surrounding crowd grows silent, all that is heard are the odd whisper or child's question as the pallbearers, the dead's kin and closest friends continue on, alone. Through the dark halls, they carry the lost, finally reaching the alcove and laying the body to rest below it's stone effigy, where each, in turn, bid their individual farewells. As the sun fades away, a great feast is held and those who knew the dead recount stories of the life and deeds of the lost.;;;;;;;;;;;;;x
 
 String_the_skinchanger_brotherhood;the Skinchangers;;;;;;;;;;;;;x
 String_skinchanger_brotherhood;the Skinchangers;;;;;;;;;;;;;x
@@ -979,3 +1130,162 @@ title_court_singer_mbs_desc;A fine singer, skilled with lute and voice, ready to
 
 title_kennelmaster_mbs;Kennelmaster;;;;;;;;;;;;;x
 title_kennelmaster_mbs_desc;Charged with the training and care of the hounds of the castle, the kennelmaster is vital to any hunt.;;;;;;;;;;;;;x
+
+
+title_wetnurse_mbs;Wetnurse;;;;;;;;;;;;;x
+title_wetnurse_mbs_desc;Charged with caring for and breastfeeding noble children that are not her own, the wetnurse is often an important part of any court.;;;;;;;;;;;;;x
+
+
+Jolly_Salt;Jolly Salt;;;;;;;;;;;;;x
+North_Star;North Star;;;;;;;;;;;;;x
+
+
+plot_replace_regent_cb_mbs;Seize Regency;;;;;;;;;;;;;x
+CB_NAME_REPLACE_REGENT_MBS;Seize Regency;;;;;;;;;;;;;x
+WAR_NAME_REPLACE_REGENT_MBS;$ATTACKER$'s $ORDER$War for the Regency;;;;;;;;;;;;;x
+
+
+qartheen;Pureborn;Qarthien;Qartheen;;Qarthiense;;;;;;;;;x
+qartheen_lowborn;Qartheen;Qarthien;Qartheen;;Qarthiense;;;;;;;;;x
+
+gendels_folk;Gendel's Folk;;;;;;;;;;;;;x
+gendels_folk_opinion;Gendel's Folk Opinion;;;;;;;;;;;;;x
+
+armsman;Armsman;;;;;;;;;;;;;x
+armsman_opinion;Armsman Opinion;;;;;;;;;;;;;x
+stepstonesman;Stepstonesman;;;;;;;;;;;;;x
+stepstonesman_opinion;Stepstonesman Opinion;;;;;;;;;;;;;x
+sea_dornish;Sea Dornish;;;;;;;;;;;;;x
+sea_dornish_opinion;Sea Dornish Opinion;;;;;;;;;;;;;x
+
+krakenman;Krakenman;;;;;;;;;;;;;x
+krakenman_opinion;Krakenman Opinion;;;;;;;;;;;;;x
+
+oligarchy_emperor_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_ruler_consort_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_ruler_consort_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_foa_qartheen_lowborn;Noble Pureborn;Noble Impollu;;;Noble Sangrepura;;;;;;;;;x
+oligarchy_emperor_foa_qartheen_lowborn;Noble Pureborn;Noble Impollu;;;Noble Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_prince_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_prince_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_prince_AGOT_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_prince_AGOT_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_queen_mother_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_king_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_king_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_king_title_ruler_consort_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_king_title_ruler_consort_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_king_foa_qartheen_lowborn;Noble Pureborn;Noble Impollu;;;Noble Sangrepura;;;;;;;;;x
+oligarchy_king_foa_qartheen_lowborn;Noble Pureborn;Noble Impollu;;;Noble Sangrepura;;;;;;;;;x
+oligarchy_king_title_prince_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_king_title_prince_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_king_title_prince_AGOT_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_king_title_prince_AGOT_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_king_title_queen_mother_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_prince_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_prince_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_prince_AGOT_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_prince_AGOT_female_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+oligarchy_emperor_title_queen_mother_qartheen_lowborn;Pureborn;Impollu;;;Sangrepura;;;;;;;;;x
+
+
+
+title_defender_of_dispossessed;Defender of the Dispossessed;;;;;;;;;;;;;x
+title_defender_of_dispossessed_desc;Defender of the Dispossessed is an ancient title of House Manderly, commemorating their exile from the Reach.;;;;;;;;;;;;;x
+title_beacon_of_south;Beacon of the South;;;;;;;;;;;;;x
+title_beacon_of_south_desc;Beacon of the South is a Reachman title, it reflects the duty of the Lords of Oldtown in maintaining the beacon atop the Hightower.;;;;;;;;;;;;;x
+title_lord_of_port;Lord of the Port;;;;;;;;;;;;;x
+title_lord_of_port_desc;Lord of the Port is a Reachman title, it reflects the duty of the Lords of Oldtown in protecting the city's port.;;;;;;;;;;;;;x
+title_protector_of_citadel;Protector of the Citadel;;;;;;;;;;;;;x
+title_protector_of_citadel_desc;Protector of the Citadel is a Reachman title, The Citadel, the center of the order of maesters, was established on a tract of land granted by King Urrigon Hightower and ever since, the Lords of Oldtown have been patrons of the order.;;;;;;;;;;;;;x
+title_son_of_sea_wind;Son of the Sea Wind;;;;;;;;;;;;;x
+title_son_of_sea_wind_desc;Son of the Sea Wind is an Ironborn title, highlighting the link between those who lead the Ironborn and the sea.;;;;;;;;;;;;;x
+title_king_of_winter;King of Winter;;;;;;;;;;;;;x
+title_king_of_winter_desc;By tradition the King in the North is also known as King of Winter, an ancient title dating back to the Age of Heroes.;;;;;;;;;;;;;x
+title_stark_in_winterfell;Stark in Winterfell;;;;;;;;;;;;;x
+title_stark_in_winterfell_desc;Northern tradition holds that there must always be a Stark in Winterfell, it does not have to be the Lord of the House, but there must be one for the North to be justly governed.;;;;;;;;;;;;;x
+
+title_warden_southern_marches;Warden of the Southern Marches;;;;;;;;;;;;;x
+title_warden_southern_marches_desc;The Warden of the Southern Marches is a Northern title, it indicates military seniority over other local lords in the defense of the North against threats from below the Neck.;;;;;;;;;;;;;x
+title_keeper_gatesofmoon;Keeper of the Gates of the Moon;;;;;;;;;;;;;x
+title_keeper_gatesofmoon_desc;The Keeper of the Gates of the Moon controls the vitally strategic castle of the Gates of the Moon, which guards the foothills of the Giant's Lance.;;;;;;;;;;;;;x
+
+title_knight_of_the_gate;Knight of the Gate;;;;;;;;;;;;;x
+title_knight_of_the_gate_desc;The Knight of the Gate commands the Bloody Gate, a vitally important stronghold in the Mountains of the Moon that guards entry to the Vale, the Knight of the Gate traditionally asks the question, "Who would pass the Bloody Gate?" to all who would pass through.;;;;;;;;;;;;;x
+
+
+title_defender_marches;Defender of the Marches;;;;;;;;;;;;;x
+title_defender_marches_desc;Defender of the Marches is a Reachman title, it indicates the vital role that rulers of the Reach play in defending against raiders from the Dornish Marches.;;;;;;;;;;;;;x
+
+
+title_warden_stone_way;Warden of the Stone Way;;;;;;;;;;;;;x
+title_warden_stone_way_desc;Warden of the Stone Way is a Dornish title, it indicates military seniority over other local lords in the defense of the Stone Way, more commonly known as the Boneway.;;;;;;;;;;;;;x
+title_warden_princes_pass;Warden of the Prince's Pass;;;;Guardi¬∑n del Paso del Pr√åncipe;;;;;;;;;x
+title_warden_princes_pass_desc;Warden of the Prince's Pass is a Dornish title, it indicates military seniority over other local lords in the defense of the Wide Way, more commonly known as the Prince's Pass.;;;;;;;;;;;;;x
+title_warden_white_knife;Warden of the White Knife;;;;;;;;;;;;;x
+title_warden_white_knife_desc;Warden of the White Knife is a Northern title, it indicates military seniority over other local lords in the defense of the mouth of the White Knife at the Bite.;;;;;;;;;;;;;x
+
+
+title_keeper_of_the_night_lamp;Keeper of the Night Lamp;;;;Guardi¬∑n de la l¬∑mpara de la noche;;;;;;;;;x
+title_keeper_of_the_night_lamp_desc;The Keeper of the Night Lamp denotes the role of the Lords of Sisterton in their responsibility of maintining and defending the Night Lamp, a beacon located on Sisterton, a town in Sweetsister.;;;;El Guardi¬∑n de la L¬∑mpara de Noche denota el papel de la Casa Borrell es su responsabilidad mantener y defender la l¬∑mpara de la noche, un faro ubicado en Hermana Dulce, una ciudad de Tres Hermanas.;;;;;;;;;x
+title_shield_of_lannisport;Shield of Lannisport;;;;Escudo de Lannisport;;;;;;;;;x
+title_shield_of_lannisport_desc;The Shield of Lannisport is title bestowed upon the defender of the city of Lannisport in the Westerlands, traditionally the head of House Lannister.;;;;El Escudo de Lannisport es el t√åtulo ostentado por el defensor de la ciudad de Lannisport en las Tierras del Oeste. Tradicionalmente el t√åtulo es ostentado por el Se√íor de Roca Casterly, cabeza de la Casa Lannister;;;;;;;;;x
+
+
+
+job_spiritual_rahlooism;Red Septon;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+city_job_spiritual_rahlooism;Red Septon;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+LP_job_spiritual_rahlooism;Red Septon;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+nomadic_job_spiritual_rahlooism;Red Septon;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+tribal_job_spiritual_rahlooism;Red Septon;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+NW_job_spiritual_rahlooism;Red Septon;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+
+job_spiritual_rahlooism_female;Red Septa;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+city_job_spiritual_rahlooism_female;Red Septa;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+LP_job_spiritual_rahlooism_female;Red Septa;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+nomadic_job_spiritual_rahlooism_female;Red Septa;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+tribal_job_spiritual_rahlooism_female;Red Septa;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+NW_job_spiritual_rahlooism_female;Red Septa;Pr√çtre Rouge;;;Sacerdote Rojo;;;;;;;;;x
+
+temple_emperor_rahlooism;High Red Septon;Grand Pr√çtre;Hoher Priester;;M¬∑ximo Sacerdote Rojo Imperial;;;;;;;;;x
+temple_king_rahlooism;High Red Septon;Grand Pr√çtre;Hoher Priester;;M¬∑ximo Sacerdote Rojo;;;;;;;;;x
+temple_duke_rahlooism;High Red Septon;Grand Pr√çtre;Hoher Priester;;Gran Sumo Sacerdote Rojo;;;;;;;;;x
+temple_count_rahlooism;Red Septon;Pr√çtre Rouge;Hoher roter Priester;;Sumo Sacerdote Rojo;;;;;;;;;x
+temple_baron_rahlooism;Red Septon;Pr√çtre Rouge;Roter Priester;;Sacerdote Rojo;;;;;;;;;x
+temple_baron_female_rahlooism;Red Septa;Pr√çtresse Rouge;Roter Priester;;Sacerdotisa Roja;;;;;;;;;x
+temple_kingdom_of_rahlooism;Patriarchate of;Patriarcat de;Patriarchat von;;Reino de Fuego de;;;;;;;;;x
+temple_kingdom_rahlooism;Patriarchate of;Patriarcat de;;;Reino de Fuego de;;;;;;;;;x
+
+
+rahlooism;Rahlooism;Rahlooism;Rahlooism;;Rahlooism;;;;;;;;;x
+rahlooism_DESC;The followers of Rahlooism worship Red Rahloo, the Lord of Light, the Heart of Fire, the God of Flame and Shadow. His religion began in Essos, but as its worship spread to Westeros it gained some of the features of more traditional Westerosi faiths. Its followers are more tolerant of those who follow other gods and place less of an emphasis on sacrifice than more traditional R'hllor worship. The Red Septons and Septas preach of the day when the legendary hero Azor Ahai will be reborn and lead them against the Great Other and his servants, for the night is dark and full of terrors.;;;;;;;;;;;;;x
+rahlooism_FEATURES;√üY*√ü! Can become 'favoured' or 'chosen' by Red Rahloo, and so gain access to mysterious protection and healing abilities;√üY*√ü! Peut devenir 'favoris√à' ou 'choisi' par Rouge Rahloo, et gagne ainsi acc√ãs ‚Ä° de myst√àrieuses protections et capacit√às de soin;the_seven_DESC;the_seven_DESC;√üY*√ü! Pueden convertirse en 'favorecido' o 'elegido' por R'hllor, logrando acceso a misteriosas protecciones y capacidades de curaci√õn;the_seven_DESC;the_seven_DESC;the_seven_DESC;the_seven_DESC;the_seven_DESC;the_seven_DESC;the_seven_DESC;the_seven_DESC;x
+GOD_RED_RAHLOO;Red Rahloo;R'hllor;R'hllor;;R'hllor;;;;;;;;;x
+rahlooism_opinion;Rahlooism Opinion;;;;;;;;;;;;;x
+lustful_opinion;Lustful Opinion;;;;;;;;;;;;;x
+celibate_opinion;Celibate Opinion;;;;;;;;;;;;;x
+chaste_opinion;Chaste Opinion;;;;;;;;;;;;;x
+prostitute_opinion;Prostitute Opinion;;;;;;;;;;;;;x
+GOD_MOON;The Moon;;;;;;;;;;;;;x
+GOD_GELENEI;Gelenei;;;;;;;;;;;;;x
+
+
+pentoshi_religion;Gods of Pentos;;;;;;;;;;;;;x
+pentoshi_religion_DESC;The People of Pentos worship many Gods, it is hard to distinguish just who is the most popular of their pantheon.;;;;;;;;;;;;;x
+THE_TESTAMENTS_OF_PENTOS;The Prophecies of Pentos;Pentos;Pentos;;Pentos;;;;;;;;;x
+GOD_THE_HOUSEHOLD_IDOL;The Household Idol;;;;;;;;;;;;;x
+pentoshi_religion_opinion;Pentoshi Gods Opinion;;;;;;;;;;;;;x
+
+GOD_MOONMOTHER;The Moonmother;;;;;;;;;;;;;x
+myrish_religion;Gods of Myr;;;;;;;;;;;;;x
+myrish_religion_DESC;The People of Myr worship many Gods and Deities. Many of the Gods are associated with the sea and sailors.;;;;;;;;;;;;;x
+THE_TESTAMENTS_OF_MYR;The Songs of Myrth;Myr;Myr;;Myr;;;;;;;;;x
+GOD_MOONMOTHER;The Moon Mother;;;;;;;;;;;;;x
+myrish_religion_opinion;Myrish Gods Opinion;;;;;;;;;;;;;x
+GOD_PATTERN;The Patternmaker;;;;;;;;;;;;;x
+
+Mouse;Mouse;;;;;;;;;;;;;x
+
+
+opinion_mbs_knighted_me;Knighted Me;;;;;;;;;;;;;x

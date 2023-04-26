@@ -4,7 +4,7 @@ From;To;Type;Through;Comment;;;;
 31;1200;sea;954;-1;-1;-1;-1;Kingshouse-Skane
 31;26;sea;953;-1;-1;-1;-1;Kingshouse-Seal Shore
 98;1236;sea;936;-1;-1;-1;-1;Saltpans-Quiet Isle
-149;1235;sea;935;-1;-1;-1;-1;Gulltown-Motherhouse of Maris													  
+149;1235;sea;935;-1;-1;-1;-1;Gulltown-Motherhouse of Maris
 33;35;sea;960;-1;-1;-1;-1;Bear Island-Deepwood
 118;119;sea;941;-1;-1;-1;-1;Longsister-Sweetsister
 119;120;sea;941;-1;-1;-1;-1;Sweetsister-Littlesister
@@ -32,6 +32,7 @@ From;To;Type;Through;Comment;;;;
 325;324;sea;921;-1;-1;-1;-1;Wrathrock-Weeping Tower
 326;322;sea;920;-1;-1;-1;-1;Estermont-Mistwood
 1219;317;sea;1082;-1;-1;-1;-1;Slaynemouth-Lockport
+368;1260;sea;1003;-1;-1;-1;-1;Lys-Temple of Lys
 342;343;sea;1082;-1;-1;-1;-1;Ghaston Grey-The Tor
 256;269;major_river;1084;-1;-1;-1;-1;Dunstonbury-Darkdell
 222;224;major_river;1085;-1;-1;-1;-1;Rollingford-Bramsfort
@@ -60,24 +61,44 @@ From;To;Type;Through;Comment;;;;
 624;625;sea;1005;-1;-1;-1;-1;Ghaen-New Ghis
 615;610;sea;1015;-1;-1;-1;-1;Yaros-Yunkai
 733;734;sea;1029;-1;-1;-1;-1;Nameless Islands
-353;358;sea;923;-1;-1;-1;-1;Sunstone-Bloodstone
+1264;358;sea;923;-1;-1;-1;-1;Dwarfstone-Bloodstone
+353;1264;sea;923;-1;-1;-1;-1;Sunstone-Dwarfstone
 358;360;sea;923;-1;-1;-1;-1;Bloodstone-Dark Den
 358;365;sea;923;-1;-1;-1;-1;Bloodstone-Wreckstone
 365;362;sea;963;-1;-1;-1;-1;Wreckstone-Torturer's Deep
 362;359;sea;963;-1;-1;-1;-1;Torturer's Deep-Grey Gallows
 359;363;sea;963;-1;-1;-1;-1;Grey Gallows-Last Refuge
+1266;363;sea;963;-1;-1;-1;-1;Last Lamp-Last Refuge
 360;361;sea;963;-1;-1;-1;-1;Dark Den-The Skulls
+1267;361;sea;963;-1;-1;-1;-1;Fishskins-The Skulls
+1267;1268;sea;963;-1;-1;-1;-1;Fishskins-Dim Cove
 359;364;sea;922;-1;-1;-1;-1;Grey Gallows-Shame Isle
+359;1265;sea;922;-1;-1;-1;-1;Grey Gallows-Southstone
 485;484;sea;1005;-1;-1;-1;-1;Vasyugys-Little Valyria
 619;636;sea;1013;-1;-1;-1;-1;Old Ghis-Sumbyar
 749;750;sea;1037;-1;-1;-1;-1;Death Isle-Isle of Flies
+749;1270;sea;1037;-1;-1;-1;-1;Death Isle-Isle of Fleas
 749;751;sea;1037;-1;-1;-1;-1;Death Isle-Isle of Serpents
+1270;751;sea;1037;-1;-1;-1;-1;Isle of Fleas-Isle of Serpents
 750;751;sea;1037;-1;-1;-1;-1;Isle of Flies-Isle of Serpents
 751;752;sea;1037;-1;-1;-1;-1;Isle of Serpents-Howling Mountain
 752;753;sea;1038;-1;-1;-1;-1;Howling Mountain-Talon
-753;744;sea;1038;-1;-1;-1;-1;Talon-Isle of Toads
+752;1271;sea;1039;-1;-1;-1;-1;Howling Mountain-Chain Pits
+1272;753;sea;1038;-1;-1;-1;-1;Basilisk Bone-Talon
+1273;744;sea;1038;-1;-1;-1;-1;Isle of Mangroves-Isle of Toads
+753;1273;sea;1038;-1;-1;-1;-1;Talon-Isle of Mangroves
 753;754;sea;1038;-1;-1;-1;-1;Talon-Isle of Vines
+744;1274;sea;1035;-1;-1;-1;-1;Isle of Toads-Isle of Worms
+1274;1275;sea;1035;-1;-1;-1;-1;Isle of Worms-Isle of Sharks
+1276;1275;sea;1035;-1;-1;-1;-1;Isle of Lizards-Isle of Sharks
+1276;742;sea;1035;-1;-1;-1;-1;Isle of Lizards-Ax Isle
 754;744;sea;1038;-1;-1;-1;-1;Isle of Toads-Isle of Vines
+743;1275;sea;1035;-1;-1;-1;-1;Skull island-Isle of Sharks
+1277;751;sea;1037;-1;-1;-1;-1;Venom Rock-Isle of Serpents
+1277;1278;sea;1036;-1;-1;-1;-1;Venom Rock-Jungle Port
+1277;1280;sea;1036;-1;-1;-1;-1;Venom Rock-Sorrow Rock
+1279;1278;sea;1036;-1;-1;-1;-1;Bitter Water-Jungle Port
+1279;1280;sea;1036;-1;-1;-1;-1;Bitter Water-Sorrow Rock
 754;743;sea;1035;-1;-1;-1;-1;Isle of Vines-Skull island
 743;742;sea;1035;-1;-1;-1;-1;Skull island-Ax Isle
 471;1133;sea;974;-1;-1;-1;-1;Lorath-Lorassyon

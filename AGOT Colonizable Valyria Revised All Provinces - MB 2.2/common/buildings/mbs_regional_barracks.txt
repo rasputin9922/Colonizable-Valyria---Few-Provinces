@@ -55,9 +55,7 @@ castle = {
 		desc = ca_mbs_thenn_barracks_desc
 	
 		potential = {
-			OR = {
-				province_id = 2
-			}
+			province_id = 2
 		}
 		gold_cost = 150
 		build_time = 210
@@ -1446,7 +1444,7 @@ castle = {
 		extra_tech_building_start = 10.0 # Never get at start of game
 	}
 	ca_mbs_ibbenese_barracks = {
-		desc = ca_mbsibbenese_barracks_desc
+		desc = ca_mbs_ibbenese_barracks_desc
 	
 		potential = {
 			OR = {
@@ -1940,9 +1938,7 @@ castle = {
 		upgrades_from = ca_mbs_thenn_barracks
 	
 		potential = {
-			OR = {
-				province_id = 2
-			}
+			province_id = 2
 		}
 		gold_cost = 210
 		build_time = 210
@@ -3378,7 +3374,7 @@ castle = {
 		extra_tech_building_start = 10.0 # Never get at start of game
 	}
 	ca_mbs_ibbenese_barracks_1 = {
-		desc = ca_mbsibbenese_barracks_1_desc
+		desc = ca_mbs_ibbenese_barracks_1_desc
 		upgrades_from = ca_mbs_ibbenese_barracks
 	
 		potential = {
@@ -3890,9 +3886,7 @@ castle = {
 		upgrades_from = ca_mbs_thenn_barracks_1
 	
 		potential = {
-			OR = {
-				province_id = 2
-			}
+			province_id = 2
 		}
 		gold_cost = 300
 		build_time = 210
@@ -5421,7 +5415,7 @@ castle = {
 		extra_tech_building_start = 10.0 # Never get at start of game
 	}
 	ca_mbs_ibbenese_barracks_2 = {
-		desc = ca_mbsibbenese_barracks_2_desc
+		desc = ca_mbs_ibbenese_barracks_2_desc
 		upgrades_from = ca_mbs_ibbenese_barracks_1
 	
 		potential = {
@@ -5956,9 +5950,7 @@ castle = {
 		upgrades_from = ca_mbs_thenn_barracks_2
 	
 		potential = {
-			OR = {
-				province_id = 2
-			}
+			province_id = 2
 		}
 		gold_cost = 450
 		build_time = 210
@@ -7487,7 +7479,7 @@ castle = {
 		extra_tech_building_start = 10.0 # Never get at start of game
 	}
 	ca_mbs_ibbenese_barracks_3 = {
-		desc = ca_mbsibbenese_barracks_3_desc
+		desc = ca_mbs_ibbenese_barracks_3_desc
 		upgrades_from = ca_mbs_ibbenese_barracks_2
 	
 		potential = {
@@ -8019,9 +8011,7 @@ castle = {
 		prerequisites = { ca_mbs_thenn_barracks }
 	
 		potential = {
-			OR = {
-				province_id = 2
-			}
+			province_id = 2
 		}
 		gold_cost = 230
 		build_time = 210
@@ -9401,7 +9391,7 @@ castle = {
 		extra_tech_building_start = 10.0 # Never get at start of game
 	}
 	ca_mbs_ibbenese_specialised = {
-		desc = ca_mbsibbenese_specialised_desc
+		desc = ca_mbs_ibbenese_specialised_desc
 		prerequisites = { ca_mbs_ibbenese_barracks }
 	
 		potential = {
@@ -9893,9 +9883,7 @@ castle = {
 		upgrades_from = ca_mbs_thenn_specialised
 	
 		potential = {
-			OR = {
-				province_id = 2
-			}
+			province_id = 2
 		}
 		gold_cost = 450
 		build_time = 210
@@ -11275,7 +11263,7 @@ castle = {
 		extra_tech_building_start = 10.0 # Never get at start of game
 	}
 	ca_mbs_ibbenese_specialised_1 = {
-		desc = ca_mbsibbenese_specialised_1_desc
+		desc = ca_mbs_ibbenese_specialised_1_desc
 		upgrades_from = ca_mbs_ibbenese_specialised
 	
 		potential = {
@@ -11766,9 +11754,7 @@ castle = {
 		upgrades_from = ca_mbs_thenn_specialised_1
 	
 		potential = {
-			OR = {
-				province_id = 2
-			}
+			province_id = 2
 		}
 		gold_cost = 650
 		build_time = 210
@@ -13148,7 +13134,7 @@ castle = {
 		extra_tech_building_start = 10.0 # Never get at start of game
 	}
 	ca_mbs_ibbenese_specialised_2 = {
-		desc = ca_mbsibbenese_specialised_2_desc
+		desc = ca_mbs_ibbenese_specialised_2_desc
 		upgrades_from = ca_mbs_ibbenese_specialised_1
 	
 		potential = {

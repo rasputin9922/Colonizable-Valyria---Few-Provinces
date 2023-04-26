@@ -65,7 +65,7 @@ far_east_trade_route = {
 		
 	##Roads to Qarth
 	path = {	# Bayasabhad - Qarth
-		674 671 665 664 663
+		674 671 665 664 1250 1251 1252 663
 	}
 	# path = {	# Nekhos - Kosrak (via Old Waste Road)
 	#	650 653 652 648
@@ -97,7 +97,7 @@ far_east_trade_route = {
 		765 1095 1021 1019
 	}	
 	# path = {	# Yin - Qarth (via Asabhad)
-	# 	765 764 763 669 668 666 664 663
+	# 	765 764 763 669 668 666 664
 	# }
 	path = {	# Yin Coast - Ctl Jade Sea
 		1101 1100
@@ -169,7 +169,7 @@ central_trade_route = {
 	
 	##Roads to Mereen
 	path = {	# Qarth - Meereen
-		663 655 654 650 641 640 639 638
+		663 1252 1251 1250 655 654 650 641 640 639 638
 	}
 	path = {	# Hesh - Mereen
 		638 607 606

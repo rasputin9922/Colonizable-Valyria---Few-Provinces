@@ -19,20 +19,20 @@ world_beyond_the_wall = {
 }
 world_the_wall = {
 	counties = { 
-		c_castle_black c_eastwatch c_shadow_tower c_brandons_gift c_new_gift c_westwatch_mbs
+		c_castle_black c_eastwatch c_shadow_tower c_brandons_gift c_new_gift c_new_gift_mbs c_westwatch_mbs
 	}
 }
 world_east_coast_of_north = {
 	duchies = {
-		d_lasthearth d_karhold d_dreadfort d_whiteharbor d_skagos d_hornwood d_skane d_oldcastle d_widowswatch
+		d_lasthearth d_karhold d_dreadfort d_whiteharbor d_skagos d_hornwood d_skane d_oldcastle d_widowswatch d_mbs_blackpool
 	}
 }
 world_north = {
 	duchies = {
-		d_winterfell d_lasthearth d_karhold d_dreadfort d_whiteharbor d_northclans d_skagos d_rills d_wolfswood d_barrowlands d_hornwood d_theneck d_flintsfinger d_stonyshore d_skane d_oldcastle d_widowswatch
+		d_winterfell d_lasthearth d_karhold d_dreadfort d_whiteharbor d_northclans d_skagos d_rills d_wolfswood d_barrowlands d_hornwood d_theneck d_flintsfinger d_stonyshore d_skane d_oldcastle d_widowswatch d_mbs_blackpool d_bearisland
 	}
 	counties = {
-		c_bearisland c_moatcailin c_brandons_gift c_new_gift
+		c_moatcailin c_brandons_gift c_new_gift c_new_gift_mbs
 	}
 }
 world_iron_isles = {
@@ -45,7 +45,7 @@ world_iron_isles = {
 }
 world_riverlands = {
 	duchies = {
-		d_harrenhal d_riverrun d_thecrossing d_oldstones d_blackwood d_southstone d_acornsridge d_bayofclaws d_trident d_wayfarersrest d_willowwood d_esgaroth
+		d_harrenhal d_riverrun d_thecrossing d_oldstones d_blackwood d_southstone d_acornsridge d_bayofclaws d_trident d_wayfarersrest d_willowwood d_esgaroth d_oldstones_mbs d_maidenpool
 	}
 }
 world_westerlands = {
@@ -105,7 +105,7 @@ world_masseys_hook = {
 }
 world_stormlands = {
 	duchies = {
-		d_shipbreaker d_wendwater d_red_watch d_tarth d_summerhall d_dornish_marches d_rainwood d_cape_wrath d_griffins_roost
+		d_shipbreaker d_wendwater d_red_watch d_tarth d_summerhall d_dornish_marches d_rainwood d_cape_wrath d_griffins_roost d_mbs_summerhall
 	}
 }
 world_rainwood = { 
@@ -123,15 +123,15 @@ world_dornish_marches = {
 }
 world_dorne = {
 	duchies = {
-		d_brokenarm d_vaith d_ghosthills d_brimstone d_redmountains d_stoneway d_princespass 
+		d_brokenarm d_vaith d_ghosthills d_brimstone d_redmountains d_stoneway d_princespass d_blackmont d_sandstone
 	}
 	counties = {
-		c_ghastongrey c_blackmont
+		c_ghastongrey 
 	}
 }
 world_red_mountains = { #corresponds to stone dornish culture area
 	provinces = {
-		336 335 332 327 333 331 328 329 330 334
+		336 335 332 327 333 331 328 329 330 334 1233 1249
 	}
 }
 world_dornish_desert = { #corresponds to sand dornish culture area
@@ -149,7 +149,7 @@ world_crownlands = {
 		world_crackclaw_point world_dragonstone
 	}
 	duchies = {
-		d_duskendale d_blackwater_rush d_rosby d_kingswood d_kings_landing d_masseys_hook d_hayford d_stokeworth
+		d_duskendale d_blackwater_rush d_rosby d_kingswood d_kings_landing d_masseys_hook d_hayford d_stokeworth d_mbs_rooks_rest
 	}
 }
 world_westeros_north = {
@@ -185,7 +185,7 @@ world_westeros = {
 ##Free Cities
 world_stepstones = {
 	duchies = {
-		d_central_stepstones d_western_stepstones d_northern_stepstones d_southern_stepstones
+		d_central_stepstones d_western_stepstones d_northern_stepstones d_southern_stepstones d_eastern_stepstones 
 	}
 }
 world_braavos = {
@@ -527,7 +527,7 @@ world_essos = {
 ### Summer Sea
 world_summer_islands = {
 	duchies = {
-		d_walano d_last_lament d_tall_trees_valley d_sweet_lotus_vale d_west_jhala d_parrot_bay d_indigo_straits d_red_flower_vale d_golden_head d_the_three_exiles d_moluu d_omburu
+		d_walano d_last_lament d_tall_trees_valley d_sweet_lotus_vale d_west_jhala d_parrot_bay d_indigo_straits d_red_flower_vale d_golden_head d_the_three_exiles d_moluu d_omburu d_mbs_sunset_isles
 	}
 	counties = {
 		c_koj c_isle_of_birds
@@ -551,11 +551,9 @@ world_walano = {
 }
 world_basilisk_isles = {
 	duchies = {
-		d_western_isles d_three_snakes d_eastern_isles d_gogossos
+		d_western_isles d_three_snakes d_eastern_isles d_gogossos d_southern_isles d_howling_isles d_blackstone_islands d_zamoyos_isles d_central_isles
 	}
-	counties = {
-		c_isle_of_lice
-	}
+
 }
 world_sothoryos = {
 	duchies = {
@@ -573,4 +571,3 @@ world_summer_sea = {
 		d_naath
     }
 }
-
