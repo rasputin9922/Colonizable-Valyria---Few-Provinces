@@ -1,0 +1,18 @@
+spriteTypes = {
+	spriteType = {
+		name = GFX_valyrian_staff
+		texturefile = gfx\\interface\\inventory\\artifacts\\valyrian_staff.tga
+	}
+	spriteType = {
+		name = GFX_valyrian_staff_small
+		texturefile = gfx\\interface\\inventory\\artifacts\\valyrian_staff_small.tga
+	}
+	spriteType = {
+		name = GFX_dragon_crown
+		texturefile = gfx\\interface\\inventory\\artifacts\\dragon_crown.tga
+	}
+	spriteType = {
+		name = GFX_dragon_crown_small
+		texturefile = gfx\\interface\\inventory\\artifacts\\dragon_crown_small.tga
+	}
+}
